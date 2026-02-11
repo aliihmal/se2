@@ -1,0 +1,201 @@
+id,type,flavor,filling,size,layers,frosting type,frosting flavor,decoration type,decoration color,custom message,shape,allergies,special ingredients,packaging type,price,quantity
+1,Graduation,Coffee,Cream Cheese,Large,4,Cream Cheese,Red Velvet,Drip Design,Ivory,Message 1,Round,Nuts,None,Box,114.31,4
+2,Valentine,Strawberry,Vanilla Cream,Large,3,Buttercream,Vanilla,Flowers,Black,Message 2,Rectangle,Dairy,Gluten-Free Flour,Premium Box,89.38,2
+3,Wedding,Lemon,Lemon Curd,Medium,5,Cream Cheese,Chocolate,Hearts,Purple,Message 3,Rectangle,Dairy,Gluten-Free Flour,Custom Packaging,63.57,4
+4,Valentine,Coffee,Caramel,Medium,5,Buttercream,Strawberry,Drip Design,White,Message 4,Square,Nuts,None,Premium Box,129.02,2
+5,Anniversary,Coffee,Cream Cheese,Medium,2,Cream Cheese,Chocolate,Sprinkles,Black,Message 5,Round,Gluten,Sugar-Free,Custom Packaging,118.19,5
+6,Graduation,Coffee,Caramel,Large,4,Whipped Cream,Strawberry,Drip Design,White,Message 6,Square,None,None,Premium Box,15.16,5
+7,Anniversary,Chocolate,Strawberry Jam,Large,1,Cream Cheese,Red Velvet,Hearts,Black,Message 7,Round,Gluten,Gluten-Free Flour,Box,64.23,3
+8,Valentine,Red Velvet,Vanilla Cream,Small,4,Cream Cheese,Chocolate,Sprinkles,White,Message 8,Rectangle,Dairy,Vegan,Box,66.97,2
+9,Engagement,Vanilla,Caramel,Small,1,Buttercream,Vanilla,Hearts,Red,Message 9,Square,Gluten,Vegan,Premium Box,139.29,3
+10,Graduation,Lemon,Cream Cheese,Large,1,Whipped Cream,Coffee,Classic,Red,Message 10,Rectangle,Nuts,Vegan,Premium Box,148.98,3
+11,Baby Shower,Chocolate,Lemon Curd,Small,4,Cream Cheese,Vanilla,Minimalist,Purple,Message 11,Round,None,None,Premium Box,114.0,5
+12,Birthday,Vanilla,Vanilla Cream,Small,4,Cream Cheese,Lemon,Sprinkles,Red,Message 12,Square,Gluten,Gluten-Free Flour,Premium Box,45.44,1
+13,Baby Shower,Red Velvet,Vanilla Cream,Small,1,Whipped Cream,Chocolate,Classic,Red,Message 13,Square,Dairy,Sugar-Free,Premium Box,53.7,1
+14,Engagement,Red Velvet,Cream Cheese,Medium,2,Buttercream,Funfetti,Hearts,Blue,Message 14,Square,Gluten,Vegan,Box,125.5,1
+15,Anniversary,Lemon,Mocha Cream,Large,4,Whipped Cream,Red Velvet,Sprinkles,Ivory,Message 15,Square,Nuts,Sugar-Free,Box,121.21,4
+16,Engagement,Coffee,Caramel,Small,5,Buttercream,Lemon,Hearts,Red,Message 16,Heart,None,Gluten-Free Flour,Premium Box,62.84,5
+17,Wedding,Vanilla,Mocha Cream,Large,3,Whipped Cream,Vanilla,Minimalist,Gold,Message 17,Round,Dairy,Vegan,Box,46.96,2
+18,Valentine,Lemon,Chocolate Cream,Large,5,Buttercream,Chocolate,Sprinkles,Ivory,Message 18,Round,Dairy,Vegan,Premium Box,126.74,3
+19,Birthday,Funfetti,Mocha Cream,Large,2,Cream Cheese,Funfetti,Sprinkles,Red,Message 19,Round,Dairy,Gluten-Free Flour,Custom Packaging,108.57,2
+20,Anniversary,Coffee,Lemon Curd,Large,5,Whipped Cream,Coffee,Drip Design,White,Message 20,Rectangle,Dairy,None,Box,113.34,5
+21,Baby Shower,Strawberry,Cream Cheese,Medium,5,Buttercream,Strawberry,Logo,Blue,Message 21,Round,Dairy,Vegan,Custom Packaging,129.49,1
+22,Valentine,Red Velvet,Chocolate Cream,Medium,5,Buttercream,Chocolate,Classic,Black,Message 22,Square,None,Sugar-Free,Custom Packaging,118.28,3
+23,Birthday,Funfetti,Cream Cheese,Large,5,Whipped Cream,Coffee,Hearts,Pink,Message 23,Round,None,None,Custom Packaging,76.51,2
+24,Birthday,Red Velvet,Cream Cheese,Large,4,Buttercream,Funfetti,Drip Design,Purple,Message 24,Heart,Nuts,None,Box,82.08,1
+25,Anniversary,Chocolate,Chocolate Cream,Small,5,Buttercream,Strawberry,Flowers,Ivory,Message 25,Round,Nuts,Gluten-Free Flour,Premium Box,73.5,3
+26,Engagement,Coffee,Chocolate Cream,Medium,5,Whipped Cream,Funfetti,Minimalist,Black,Message 26,Round,Gluten,Sugar-Free,Box,66.68,4
+27,Corporate,Red Velvet,Lemon Curd,Small,3,Cream Cheese,Lemon,Hearts,Pink,Message 27,Square,Nuts,Vegan,Box,113.29,2
+28,Valentine,Strawberry,Cream Cheese,Small,3,Whipped Cream,Funfetti,Flowers,Gold,Message 28,Square,Nuts,Vegan,Premium Box,20.75,4
+29,Corporate,Chocolate,Lemon Curd,Large,3,Whipped Cream,Lemon,Hearts,Ivory,Message 29,Rectangle,None,Vegan,Premium Box,19.04,3
+30,Birthday,Red Velvet,Vanilla Cream,Large,5,Buttercream,Vanilla,Flowers,Red,Message 30,Rectangle,Dairy,None,Premium Box,114.15,2
+31,Corporate,Coffee,Mocha Cream,Small,3,Buttercream,Funfetti,Classic,White,Message 31,Square,None,Sugar-Free,Custom Packaging,117.45,3
+32,Birthday,Chocolate,Vanilla Cream,Medium,3,Buttercream,Red Velvet,Flowers,Ivory,Message 32,Square,Dairy,Sugar-Free,Box,17.17,5
+33,Graduation,Vanilla,Vanilla Cream,Small,3,Cream Cheese,Lemon,Classic,White,Message 33,Heart,Gluten,Gluten-Free Flour,Box,92.7,4
+34,Baby Shower,Red Velvet,Strawberry Jam,Large,4,Cream Cheese,Red Velvet,Flowers,Purple,Message 34,Heart,Dairy,Gluten-Free Flour,Premium Box,93.61,2
+35,Engagement,Chocolate,Mocha Cream,Large,4,Whipped Cream,Red Velvet,Classic,Black,Message 35,Round,Dairy,None,Custom Packaging,129.01,1
+36,Anniversary,Chocolate,Cream Cheese,Medium,2,Whipped Cream,Coffee,Hearts,Blue,Message 36,Heart,Dairy,None,Box,97.47,3
+37,Anniversary,Red Velvet,Chocolate Cream,Small,3,Whipped Cream,Lemon,Hearts,Pink,Message 37,Square,Nuts,Vegan,Custom Packaging,55.78,1
+38,Anniversary,Lemon,Chocolate Cream,Large,2,Whipped Cream,Lemon,Logo,Pink,Message 38,Rectangle,Dairy,Vegan,Custom Packaging,129.2,2
+39,Birthday,Red Velvet,Strawberry Jam,Large,2,Buttercream,Lemon,Drip Design,Blue,Message 39,Heart,Gluten,Gluten-Free Flour,Custom Packaging,78.73,4
+40,Wedding,Strawberry,Mocha Cream,Small,4,Buttercream,Funfetti,Flowers,Purple,Message 40,Rectangle,None,Sugar-Free,Box,113.09,5
+41,Anniversary,Red Velvet,Strawberry Jam,Large,3,Buttercream,Coffee,Drip Design,Pink,Message 41,Rectangle,None,Vegan,Custom Packaging,117.47,2
+42,Corporate,Funfetti,Cream Cheese,Small,5,Whipped Cream,Vanilla,Classic,Ivory,Message 42,Square,Nuts,Gluten-Free Flour,Custom Packaging,68.47,1
+43,Graduation,Strawberry,Caramel,Medium,3,Buttercream,Vanilla,Classic,Pink,Message 43,Rectangle,Dairy,Gluten-Free Flour,Box,79.7,5
+44,Birthday,Vanilla,Mocha Cream,Medium,5,Buttercream,Lemon,Sprinkles,Gold,Message 44,Square,None,Sugar-Free,Box,46.38,2
+45,Valentine,Funfetti,Lemon Curd,Medium,5,Buttercream,Strawberry,Minimalist,White,Message 45,Square,Dairy,Sugar-Free,Box,148.26,1
+46,Anniversary,Vanilla,Cream Cheese,Large,2,Whipped Cream,Red Velvet,Flowers,Pink,Message 46,Rectangle,Gluten,Sugar-Free,Box,118.2,2
+47,Engagement,Funfetti,Mocha Cream,Medium,5,Cream Cheese,Lemon,Logo,Ivory,Message 47,Round,Gluten,Gluten-Free Flour,Custom Packaging,74.31,2
+48,Graduation,Strawberry,Cream Cheese,Large,5,Cream Cheese,Coffee,Flowers,Ivory,Message 48,Square,Nuts,None,Custom Packaging,24.67,3
+49,Anniversary,Funfetti,Caramel,Small,5,Whipped Cream,Coffee,Drip Design,Purple,Message 49,Round,Gluten,Gluten-Free Flour,Custom Packaging,47.69,3
+50,Corporate,Lemon,Cream Cheese,Large,5,Buttercream,Red Velvet,Minimalist,Black,Message 50,Rectangle,Gluten,Vegan,Box,114.13,4
+51,Wedding,Vanilla,Cream Cheese,Small,2,Whipped Cream,Chocolate,Flowers,Black,Message 51,Square,Nuts,Vegan,Premium Box,97.29,1
+52,Valentine,Vanilla,Chocolate Cream,Large,3,Buttercream,Red Velvet,Minimalist,Ivory,Message 52,Square,Dairy,Sugar-Free,Premium Box,109.33,2
+53,Corporate,Coffee,Vanilla Cream,Medium,1,Whipped Cream,Funfetti,Hearts,Red,Message 53,Rectangle,Gluten,Sugar-Free,Box,118.83,3
+54,Wedding,Funfetti,Vanilla Cream,Medium,3,Cream Cheese,Coffee,Logo,White,Message 54,Rectangle,Dairy,Vegan,Premium Box,101.39,5
+55,Valentine,Funfetti,Cream Cheese,Medium,5,Whipped Cream,Vanilla,Drip Design,Pink,Message 55,Square,None,Gluten-Free Flour,Box,149.85,3
+56,Wedding,Red Velvet,Vanilla Cream,Medium,3,Buttercream,Chocolate,Logo,Black,Message 56,Round,Gluten,None,Box,122.09,1
+57,Anniversary,Red Velvet,Vanilla Cream,Small,1,Whipped Cream,Vanilla,Drip Design,Gold,Message 57,Heart,Nuts,Sugar-Free,Custom Packaging,50.2,2
+58,Valentine,Coffee,Chocolate Cream,Large,5,Buttercream,Funfetti,Minimalist,Black,Message 58,Rectangle,Gluten,Gluten-Free Flour,Box,95.99,1
+59,Birthday,Red Velvet,Cream Cheese,Small,1,Cream Cheese,Red Velvet,Drip Design,Purple,Message 59,Rectangle,Nuts,Sugar-Free,Custom Packaging,112.75,4
+60,Graduation,Red Velvet,Chocolate Cream,Large,4,Cream Cheese,Chocolate,Logo,White,Message 60,Round,Dairy,None,Premium Box,33.67,2
+61,Baby Shower,Strawberry,Lemon Curd,Small,1,Cream Cheese,Lemon,Minimalist,Pink,Message 61,Rectangle,Dairy,Sugar-Free,Box,68.79,3
+62,Anniversary,Red Velvet,Vanilla Cream,Small,4,Buttercream,Vanilla,Drip Design,White,Message 62,Square,Dairy,None,Custom Packaging,132.36,3
+63,Valentine,Lemon,Lemon Curd,Small,1,Buttercream,Coffee,Classic,White,Message 63,Square,Gluten,None,Custom Packaging,117.39,2
+64,Baby Shower,Lemon,Caramel,Large,3,Buttercream,Strawberry,Classic,Gold,Message 64,Round,None,Sugar-Free,Custom Packaging,125.86,3
+65,Wedding,Red Velvet,Mocha Cream,Small,4,Buttercream,Strawberry,Classic,Blue,Message 65,Round,Dairy,Gluten-Free Flour,Premium Box,70.16,2
+66,Valentine,Vanilla,Vanilla Cream,Large,5,Whipped Cream,Chocolate,Flowers,Purple,Message 66,Round,Gluten,Sugar-Free,Custom Packaging,49.82,4
+67,Anniversary,Vanilla,Vanilla Cream,Large,5,Cream Cheese,Lemon,Classic,Ivory,Message 67,Round,None,Gluten-Free Flour,Premium Box,110.52,2
+68,Baby Shower,Red Velvet,Mocha Cream,Small,3,Whipped Cream,Chocolate,Classic,White,Message 68,Heart,Gluten,Sugar-Free,Premium Box,143.57,2
+69,Birthday,Funfetti,Vanilla Cream,Small,4,Whipped Cream,Lemon,Sprinkles,Purple,Message 69,Square,Nuts,None,Custom Packaging,29.17,3
+70,Engagement,Funfetti,Cream Cheese,Large,1,Cream Cheese,Funfetti,Logo,Pink,Message 70,Round,Gluten,Gluten-Free Flour,Box,105.58,1
+71,Corporate,Strawberry,Vanilla Cream,Large,4,Cream Cheese,Lemon,Logo,Ivory,Message 71,Square,None,Vegan,Custom Packaging,100.52,5
+72,Wedding,Red Velvet,Mocha Cream,Medium,2,Buttercream,Coffee,Drip Design,Red,Message 72,Square,Nuts,Vegan,Premium Box,105.46,1
+73,Birthday,Strawberry,Cream Cheese,Large,2,Whipped Cream,Strawberry,Flowers,Gold,Message 73,Square,Nuts,None,Custom Packaging,30.53,3
+74,Baby Shower,Vanilla,Vanilla Cream,Small,4,Cream Cheese,Lemon,Minimalist,Ivory,Message 74,Round,Dairy,None,Custom Packaging,65.14,2
+75,Birthday,Lemon,Mocha Cream,Medium,2,Cream Cheese,Chocolate,Flowers,Gold,Message 75,Square,None,Gluten-Free Flour,Box,65.73,4
+76,Valentine,Chocolate,Strawberry Jam,Small,5,Buttercream,Coffee,Logo,Blue,Message 76,Square,Dairy,Vegan,Premium Box,71.08,3
+77,Corporate,Strawberry,Mocha Cream,Medium,2,Buttercream,Vanilla,Classic,Black,Message 77,Heart,Gluten,Vegan,Custom Packaging,81.42,3
+78,Anniversary,Funfetti,Vanilla Cream,Large,3,Cream Cheese,Coffee,Flowers,Gold,Message 78,Rectangle,Dairy,Gluten-Free Flour,Box,41.7,3
+79,Corporate,Vanilla,Vanilla Cream,Medium,1,Whipped Cream,Coffee,Flowers,Red,Message 79,Rectangle,Dairy,Gluten-Free Flour,Premium Box,76.95,4
+80,Birthday,Red Velvet,Strawberry Jam,Small,5,Cream Cheese,Lemon,Minimalist,Pink,Message 80,Rectangle,Dairy,Sugar-Free,Custom Packaging,62.27,5
+81,Baby Shower,Chocolate,Lemon Curd,Large,3,Whipped Cream,Chocolate,Sprinkles,Red,Message 81,Round,Gluten,Gluten-Free Flour,Premium Box,141.61,2
+82,Baby Shower,Vanilla,Caramel,Large,1,Buttercream,Red Velvet,Sprinkles,Black,Message 82,Rectangle,Gluten,Vegan,Box,56.45,5
+83,Anniversary,Chocolate,Chocolate Cream,Large,4,Whipped Cream,Strawberry,Flowers,Ivory,Message 83,Rectangle,None,Vegan,Custom Packaging,59.86,1
+84,Graduation,Strawberry,Caramel,Medium,2,Buttercream,Lemon,Logo,Ivory,Message 84,Heart,Gluten,Vegan,Box,148.92,1
+85,Corporate,Coffee,Vanilla Cream,Small,4,Cream Cheese,Vanilla,Drip Design,White,Message 85,Rectangle,Nuts,Gluten-Free Flour,Box,76.21,5
+86,Engagement,Vanilla,Caramel,Large,1,Cream Cheese,Coffee,Drip Design,Blue,Message 86,Square,Gluten,Vegan,Custom Packaging,145.71,2
+87,Baby Shower,Red Velvet,Lemon Curd,Small,1,Whipped Cream,Lemon,Logo,Purple,Message 87,Round,Dairy,None,Box,19.54,4
+88,Wedding,Vanilla,Lemon Curd,Large,2,Whipped Cream,Red Velvet,Hearts,Blue,Message 88,Heart,Nuts,Gluten-Free Flour,Premium Box,95.53,1
+89,Birthday,Chocolate,Vanilla Cream,Large,1,Whipped Cream,Red Velvet,Logo,Purple,Message 89,Rectangle,None,None,Custom Packaging,20.99,1
+90,Corporate,Coffee,Cream Cheese,Small,3,Cream Cheese,Red Velvet,Sprinkles,Red,Message 90,Round,Nuts,Sugar-Free,Custom Packaging,90.91,1
+91,Corporate,Red Velvet,Lemon Curd,Large,3,Cream Cheese,Strawberry,Classic,Blue,Message 91,Square,None,Gluten-Free Flour,Custom Packaging,88.77,2
+92,Baby Shower,Coffee,Cream Cheese,Large,1,Cream Cheese,Coffee,Flowers,Pink,Message 92,Heart,Gluten,Vegan,Box,140.53,3
+93,Anniversary,Funfetti,Caramel,Large,4,Cream Cheese,Vanilla,Logo,Red,Message 93,Rectangle,Dairy,Vegan,Premium Box,109.36,2
+94,Valentine,Funfetti,Chocolate Cream,Medium,5,Buttercream,Chocolate,Hearts,Red,Message 94,Heart,Dairy,None,Premium Box,114.2,5
+95,Anniversary,Strawberry,Chocolate Cream,Large,1,Cream Cheese,Coffee,Drip Design,Black,Message 95,Rectangle,Nuts,None,Custom Packaging,78.32,2
+96,Valentine,Coffee,Vanilla Cream,Medium,3,Buttercream,Vanilla,Sprinkles,Blue,Message 96,Square,None,Gluten-Free Flour,Premium Box,57.65,5
+97,Anniversary,Strawberry,Cream Cheese,Small,3,Cream Cheese,Red Velvet,Hearts,Black,Message 97,Rectangle,None,Vegan,Custom Packaging,87.84,1
+98,Baby Shower,Coffee,Chocolate Cream,Medium,4,Cream Cheese,Vanilla,Sprinkles,Ivory,Message 98,Rectangle,Dairy,None,Premium Box,136.86,3
+99,Valentine,Funfetti,Caramel,Small,1,Cream Cheese,Lemon,Sprinkles,Purple,Message 99,Heart,Dairy,Sugar-Free,Custom Packaging,26.42,5
+100,Corporate,Funfetti,Chocolate Cream,Large,3,Whipped Cream,Lemon,Classic,Red,Message 100,Square,Gluten,Vegan,Box,60.44,1
+101,Engagement,Funfetti,Caramel,Large,3,Cream Cheese,Funfetti,Drip Design,Black,Message 101,Round,None,Vegan,Custom Packaging,60.35,5
+102,Anniversary,Red Velvet,Caramel,Medium,2,Whipped Cream,Vanilla,Hearts,Red,Message 102,Heart,Dairy,Sugar-Free,Custom Packaging,109.31,1
+103,Birthday,Red Velvet,Lemon Curd,Large,4,Whipped Cream,Vanilla,Logo,Blue,Message 103,Heart,Gluten,Vegan,Custom Packaging,145.15,4
+104,Valentine,Funfetti,Caramel,Medium,5,Whipped Cream,Vanilla,Logo,Ivory,Message 104,Heart,Nuts,Sugar-Free,Custom Packaging,93.76,3
+105,Wedding,Vanilla,Caramel,Small,1,Cream Cheese,Lemon,Drip Design,Black,Message 105,Round,Dairy,Gluten-Free Flour,Custom Packaging,91.78,1
+106,Anniversary,Chocolate,Strawberry Jam,Large,3,Cream Cheese,Lemon,Flowers,Purple,Message 106,Heart,Dairy,Sugar-Free,Custom Packaging,105.09,2
+107,Anniversary,Strawberry,Cream Cheese,Large,3,Whipped Cream,Coffee,Classic,Pink,Message 107,Square,Gluten,Vegan,Premium Box,62.32,4
+108,Valentine,Coffee,Cream Cheese,Large,2,Whipped Cream,Strawberry,Hearts,White,Message 108,Round,Dairy,Sugar-Free,Custom Packaging,97.4,5
+109,Baby Shower,Funfetti,Mocha Cream,Medium,1,Buttercream,Funfetti,Logo,Black,Message 109,Square,Dairy,Sugar-Free,Custom Packaging,54.45,1
+110,Birthday,Chocolate,Strawberry Jam,Medium,5,Whipped Cream,Chocolate,Drip Design,White,Message 110,Rectangle,Nuts,None,Custom Packaging,146.62,1
+111,Baby Shower,Strawberry,Lemon Curd,Medium,3,Buttercream,Lemon,Logo,Pink,Message 111,Square,Nuts,Sugar-Free,Premium Box,56.56,3
+112,Graduation,Vanilla,Strawberry Jam,Medium,4,Buttercream,Chocolate,Minimalist,Black,Message 112,Square,Nuts,Vegan,Premium Box,119.97,1
+113,Graduation,Coffee,Strawberry Jam,Large,3,Cream Cheese,Coffee,Sprinkles,Gold,Message 113,Square,None,None,Box,32.61,4
+114,Anniversary,Funfetti,Chocolate Cream,Small,4,Whipped Cream,Lemon,Logo,Ivory,Message 114,Rectangle,Nuts,None,Custom Packaging,113.15,3
+115,Graduation,Vanilla,Caramel,Medium,5,Buttercream,Funfetti,Flowers,White,Message 115,Round,Nuts,Gluten-Free Flour,Premium Box,87.31,5
+116,Engagement,Vanilla,Caramel,Medium,2,Whipped Cream,Vanilla,Logo,Pink,Message 116,Square,Nuts,Vegan,Custom Packaging,25.29,2
+117,Birthday,Funfetti,Lemon Curd,Large,1,Whipped Cream,Lemon,Minimalist,White,Message 117,Square,None,Sugar-Free,Custom Packaging,147.99,5
+118,Birthday,Vanilla,Cream Cheese,Small,1,Buttercream,Strawberry,Minimalist,Blue,Message 118,Heart,None,Vegan,Custom Packaging,18.67,1
+119,Anniversary,Lemon,Lemon Curd,Large,5,Whipped Cream,Chocolate,Classic,Red,Message 119,Round,Nuts,Sugar-Free,Premium Box,31.75,3
+120,Valentine,Coffee,Chocolate Cream,Medium,4,Cream Cheese,Strawberry,Drip Design,Gold,Message 120,Round,None,Vegan,Box,139.8,1
+121,Anniversary,Coffee,Mocha Cream,Large,1,Buttercream,Coffee,Flowers,Purple,Message 121,Rectangle,Dairy,Gluten-Free Flour,Premium Box,52.83,1
+122,Graduation,Strawberry,Cream Cheese,Medium,4,Cream Cheese,Strawberry,Hearts,White,Message 122,Heart,None,Vegan,Custom Packaging,53.07,1
+123,Engagement,Strawberry,Mocha Cream,Small,3,Whipped Cream,Funfetti,Sprinkles,Black,Message 123,Round,Dairy,Sugar-Free,Custom Packaging,31.59,4
+124,Valentine,Vanilla,Caramel,Large,2,Cream Cheese,Red Velvet,Hearts,Purple,Message 124,Rectangle,None,Gluten-Free Flour,Premium Box,63.83,5
+125,Engagement,Lemon,Mocha Cream,Small,5,Buttercream,Red Velvet,Sprinkles,Red,Message 125,Heart,Dairy,None,Custom Packaging,54.03,2
+126,Baby Shower,Red Velvet,Chocolate Cream,Small,1,Cream Cheese,Red Velvet,Hearts,Black,Message 126,Heart,None,Vegan,Box,102.92,5
+127,Corporate,Funfetti,Caramel,Small,2,Cream Cheese,Coffee,Flowers,White,Message 127,Square,Gluten,Sugar-Free,Premium Box,145.04,4
+128,Anniversary,Coffee,Caramel,Small,5,Cream Cheese,Vanilla,Hearts,Blue,Message 128,Rectangle,Dairy,Gluten-Free Flour,Custom Packaging,23.3,1
+129,Valentine,Funfetti,Chocolate Cream,Medium,1,Whipped Cream,Vanilla,Flowers,Black,Message 129,Square,Nuts,Gluten-Free Flour,Premium Box,17.22,5
+130,Anniversary,Strawberry,Cream Cheese,Small,4,Cream Cheese,Chocolate,Drip Design,Pink,Message 130,Rectangle,Dairy,None,Premium Box,30.56,3
+131,Engagement,Funfetti,Cream Cheese,Medium,1,Buttercream,Coffee,Logo,Gold,Message 131,Rectangle,Nuts,Vegan,Box,47.2,3
+132,Engagement,Chocolate,Cream Cheese,Medium,3,Cream Cheese,Vanilla,Sprinkles,Gold,Message 132,Heart,Gluten,Sugar-Free,Custom Packaging,142.96,2
+133,Birthday,Funfetti,Cream Cheese,Small,5,Whipped Cream,Red Velvet,Flowers,White,Message 133,Heart,Gluten,Vegan,Box,60.4,4
+134,Wedding,Coffee,Mocha Cream,Medium,4,Buttercream,Lemon,Drip Design,Black,Message 134,Rectangle,Gluten,Sugar-Free,Box,118.86,1
+135,Graduation,Red Velvet,Vanilla Cream,Large,3,Whipped Cream,Coffee,Classic,Blue,Message 135,Rectangle,Nuts,None,Premium Box,70.59,4
+136,Valentine,Red Velvet,Vanilla Cream,Large,3,Whipped Cream,Funfetti,Flowers,Black,Message 136,Round,Nuts,Sugar-Free,Premium Box,28.65,1
+137,Corporate,Vanilla,Lemon Curd,Small,3,Whipped Cream,Strawberry,Flowers,White,Message 137,Rectangle,Gluten,Gluten-Free Flour,Premium Box,44.18,4
+138,Anniversary,Vanilla,Chocolate Cream,Small,4,Whipped Cream,Coffee,Flowers,Blue,Message 138,Round,Gluten,None,Premium Box,140.65,1
+139,Birthday,Chocolate,Chocolate Cream,Medium,4,Cream Cheese,Funfetti,Logo,Ivory,Message 139,Rectangle,Gluten,None,Box,62.92,5
+140,Wedding,Chocolate,Mocha Cream,Large,5,Whipped Cream,Strawberry,Minimalist,Blue,Message 140,Round,Nuts,None,Box,45.1,1
+141,Engagement,Vanilla,Lemon Curd,Small,2,Buttercream,Funfetti,Classic,Red,Message 141,Rectangle,None,Vegan,Custom Packaging,78.45,3
+142,Anniversary,Red Velvet,Mocha Cream,Large,4,Cream Cheese,Lemon,Flowers,White,Message 142,Round,Nuts,Vegan,Premium Box,50.94,4
+143,Birthday,Vanilla,Cream Cheese,Large,5,Buttercream,Vanilla,Drip Design,Black,Message 143,Square,Dairy,None,Premium Box,115.46,5
+144,Corporate,Red Velvet,Caramel,Small,4,Cream Cheese,Funfetti,Classic,Gold,Message 144,Rectangle,Nuts,None,Custom Packaging,41.01,5
+145,Wedding,Funfetti,Vanilla Cream,Small,1,Cream Cheese,Coffee,Flowers,Pink,Message 145,Round,Nuts,None,Premium Box,56.87,2
+146,Wedding,Vanilla,Chocolate Cream,Medium,1,Cream Cheese,Vanilla,Minimalist,Pink,Message 146,Square,Nuts,Vegan,Box,82.0,3
+147,Corporate,Lemon,Chocolate Cream,Medium,2,Buttercream,Vanilla,Flowers,Purple,Message 147,Rectangle,None,Gluten-Free Flour,Custom Packaging,80.11,5
+148,Birthday,Funfetti,Vanilla Cream,Large,2,Cream Cheese,Strawberry,Flowers,Pink,Message 148,Square,Dairy,Vegan,Box,146.34,2
+149,Wedding,Red Velvet,Chocolate Cream,Medium,2,Cream Cheese,Lemon,Logo,Pink,Message 149,Rectangle,None,Gluten-Free Flour,Premium Box,92.11,2
+150,Valentine,Coffee,Lemon Curd,Small,2,Whipped Cream,Coffee,Drip Design,Pink,Message 150,Round,Nuts,Vegan,Custom Packaging,148.46,2
+151,Baby Shower,Lemon,Mocha Cream,Small,5,Cream Cheese,Funfetti,Sprinkles,White,Message 151,Heart,Gluten,None,Custom Packaging,115.2,2
+152,Baby Shower,Coffee,Chocolate Cream,Small,5,Cream Cheese,Funfetti,Hearts,White,Message 152,Heart,None,Gluten-Free Flour,Custom Packaging,21.75,3
+153,Wedding,Red Velvet,Strawberry Jam,Medium,5,Whipped Cream,Strawberry,Drip Design,Gold,Message 153,Heart,Dairy,Vegan,Box,145.8,5
+154,Baby Shower,Funfetti,Caramel,Small,4,Whipped Cream,Lemon,Classic,Blue,Message 154,Rectangle,None,Sugar-Free,Custom Packaging,138.92,3
+155,Corporate,Lemon,Strawberry Jam,Medium,5,Buttercream,Coffee,Classic,Gold,Message 155,Heart,None,Vegan,Custom Packaging,118.41,2
+156,Engagement,Lemon,Mocha Cream,Small,3,Whipped Cream,Chocolate,Drip Design,Blue,Message 156,Round,Dairy,None,Custom Packaging,26.01,3
+157,Valentine,Red Velvet,Chocolate Cream,Medium,4,Buttercream,Red Velvet,Classic,Ivory,Message 157,Square,None,None,Custom Packaging,82.86,2
+158,Anniversary,Funfetti,Strawberry Jam,Medium,1,Whipped Cream,Strawberry,Flowers,Black,Message 158,Rectangle,Nuts,Vegan,Custom Packaging,51.32,3
+159,Valentine,Lemon,Mocha Cream,Medium,5,Buttercream,Chocolate,Hearts,White,Message 159,Round,Gluten,None,Custom Packaging,122.5,1
+160,Valentine,Lemon,Cream Cheese,Large,4,Buttercream,Strawberry,Drip Design,Ivory,Message 160,Heart,Gluten,Sugar-Free,Custom Packaging,57.14,2
+161,Anniversary,Red Velvet,Vanilla Cream,Small,3,Cream Cheese,Red Velvet,Flowers,White,Message 161,Square,None,Sugar-Free,Premium Box,55.94,3
+162,Wedding,Chocolate,Chocolate Cream,Large,5,Cream Cheese,Chocolate,Sprinkles,Gold,Message 162,Square,Gluten,None,Box,104.68,3
+163,Corporate,Chocolate,Strawberry Jam,Large,1,Cream Cheese,Funfetti,Minimalist,Ivory,Message 163,Heart,Gluten,Gluten-Free Flour,Premium Box,67.38,5
+164,Corporate,Red Velvet,Chocolate Cream,Medium,3,Buttercream,Chocolate,Logo,Gold,Message 164,Square,Gluten,Sugar-Free,Box,19.57,4
+165,Graduation,Lemon,Chocolate Cream,Large,1,Buttercream,Strawberry,Logo,White,Message 165,Round,Dairy,Vegan,Premium Box,85.16,4
+166,Graduation,Funfetti,Mocha Cream,Large,2,Cream Cheese,Funfetti,Hearts,Ivory,Message 166,Heart,Nuts,Sugar-Free,Custom Packaging,66.52,5
+167,Corporate,Strawberry,Lemon Curd,Small,1,Buttercream,Vanilla,Flowers,Pink,Message 167,Rectangle,Dairy,Sugar-Free,Box,136.99,4
+168,Baby Shower,Strawberry,Chocolate Cream,Medium,1,Buttercream,Red Velvet,Drip Design,Black,Message 168,Heart,None,Sugar-Free,Custom Packaging,83.19,4
+169,Baby Shower,Funfetti,Vanilla Cream,Small,5,Buttercream,Lemon,Sprinkles,Red,Message 169,Square,Nuts,None,Premium Box,23.53,3
+170,Corporate,Funfetti,Lemon Curd,Medium,1,Whipped Cream,Red Velvet,Hearts,Black,Message 170,Heart,Nuts,Gluten-Free Flour,Box,53.94,3
+171,Corporate,Lemon,Lemon Curd,Small,5,Cream Cheese,Funfetti,Minimalist,Ivory,Message 171,Heart,Nuts,Gluten-Free Flour,Custom Packaging,32.49,2
+172,Engagement,Funfetti,Strawberry Jam,Medium,4,Cream Cheese,Strawberry,Flowers,Red,Message 172,Heart,Gluten,Gluten-Free Flour,Custom Packaging,46.85,2
+173,Engagement,Funfetti,Mocha Cream,Small,4,Cream Cheese,Coffee,Classic,Pink,Message 173,Round,Gluten,Sugar-Free,Premium Box,46.12,5
+174,Engagement,Lemon,Vanilla Cream,Small,1,Buttercream,Red Velvet,Classic,Pink,Message 174,Rectangle,Dairy,Gluten-Free Flour,Premium Box,71.72,2
+175,Corporate,Coffee,Vanilla Cream,Small,1,Whipped Cream,Lemon,Classic,Blue,Message 175,Rectangle,Nuts,Sugar-Free,Custom Packaging,44.69,4
+176,Engagement,Lemon,Vanilla Cream,Medium,4,Buttercream,Lemon,Sprinkles,Blue,Message 176,Square,Dairy,Sugar-Free,Custom Packaging,124.64,3
+177,Baby Shower,Strawberry,Strawberry Jam,Large,5,Cream Cheese,Chocolate,Drip Design,Purple,Message 177,Square,Dairy,Sugar-Free,Box,102.09,3
+178,Wedding,Red Velvet,Cream Cheese,Small,2,Buttercream,Lemon,Minimalist,Purple,Message 178,Square,None,Vegan,Custom Packaging,46.57,4
+179,Baby Shower,Strawberry,Strawberry Jam,Large,4,Buttercream,Strawberry,Classic,Purple,Message 179,Round,Dairy,None,Box,27.69,5
+180,Graduation,Lemon,Chocolate Cream,Large,4,Buttercream,Strawberry,Flowers,Gold,Message 180,Rectangle,Nuts,Sugar-Free,Premium Box,121.82,5
+181,Graduation,Funfetti,Strawberry Jam,Large,5,Cream Cheese,Chocolate,Minimalist,Pink,Message 181,Square,Nuts,Gluten-Free Flour,Box,52.02,3
+182,Wedding,Red Velvet,Strawberry Jam,Medium,3,Cream Cheese,Chocolate,Flowers,Red,Message 182,Round,None,Vegan,Premium Box,44.83,4
+183,Graduation,Funfetti,Lemon Curd,Medium,4,Buttercream,Red Velvet,Logo,Purple,Message 183,Square,None,Sugar-Free,Premium Box,103.76,1
+184,Corporate,Coffee,Vanilla Cream,Medium,5,Cream Cheese,Lemon,Sprinkles,Blue,Message 184,Square,None,Gluten-Free Flour,Box,107.76,3
+185,Corporate,Red Velvet,Caramel,Medium,5,Whipped Cream,Chocolate,Logo,Pink,Message 185,Round,Gluten,Vegan,Custom Packaging,139.62,5
+186,Baby Shower,Funfetti,Strawberry Jam,Large,5,Whipped Cream,Strawberry,Classic,Black,Message 186,Round,Dairy,Gluten-Free Flour,Custom Packaging,41.15,2
+187,Baby Shower,Chocolate,Chocolate Cream,Medium,3,Buttercream,Coffee,Hearts,Red,Message 187,Rectangle,Dairy,Vegan,Custom Packaging,44.45,3
+188,Baby Shower,Red Velvet,Vanilla Cream,Medium,1,Cream Cheese,Funfetti,Drip Design,Gold,Message 188,Heart,Nuts,Sugar-Free,Custom Packaging,45.1,4
+189,Engagement,Lemon,Chocolate Cream,Large,3,Whipped Cream,Funfetti,Flowers,White,Message 189,Rectangle,Dairy,Sugar-Free,Box,100.65,1
+190,Corporate,Red Velvet,Caramel,Medium,5,Cream Cheese,Lemon,Flowers,Purple,Message 190,Heart,Gluten,Vegan,Box,118.48,2
+191,Wedding,Funfetti,Strawberry Jam,Large,4,Buttercream,Vanilla,Sprinkles,Ivory,Message 191,Rectangle,Gluten,Sugar-Free,Custom Packaging,28.84,2
+192,Wedding,Strawberry,Lemon Curd,Small,4,Whipped Cream,Strawberry,Drip Design,Pink,Message 192,Heart,Dairy,Sugar-Free,Box,39.53,2
+193,Baby Shower,Chocolate,Caramel,Medium,4,Cream Cheese,Funfetti,Minimalist,Red,Message 193,Round,Gluten,None,Box,51.42,5
+194,Engagement,Strawberry,Vanilla Cream,Large,5,Whipped Cream,Funfetti,Classic,White,Message 194,Heart,Gluten,Gluten-Free Flour,Premium Box,45.32,2
+195,Birthday,Coffee,Caramel,Medium,5,Cream Cheese,Lemon,Drip Design,Red,Message 195,Rectangle,None,None,Custom Packaging,65.95,2
+196,Engagement,Lemon,Cream Cheese,Medium,3,Whipped Cream,Coffee,Classic,White,Message 196,Round,Nuts,Vegan,Custom Packaging,67.21,1
+197,Wedding,Red Velvet,Chocolate Cream,Large,3,Buttercream,Red Velvet,Minimalist,Red,Message 197,Square,Dairy,Vegan,Custom Packaging,128.18,1
+198,Anniversary,Vanilla,Cream Cheese,Large,5,Buttercream,Chocolate,Flowers,Purple,Message 198,Heart,Dairy,Sugar-Free,Custom Packaging,67.36,1
+199,Valentine,Strawberry,Mocha Cream,Large,5,Whipped Cream,Vanilla,Minimalist,Gold,Message 199,Square,Dairy,None,Box,19.56,3
+200,Wedding,Lemon,Cream Cheese,Large,4,Buttercream,Coffee,Sprinkles,Purple,Message 200,Rectangle,Dairy,Vegan,Premium Box,122.35,3
