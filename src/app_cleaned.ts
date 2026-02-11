@@ -4,7 +4,7 @@ export interface Order{
     item:string;
     price:number;
     id:number;
-}// first we create the order interface so we can use it dsf
+}// first we create the order interface so we can use it dsfd
 
 export class orderManagement{
     private orders:Order[] = [] ;
