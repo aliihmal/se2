@@ -38,5 +38,4 @@ export async function parseXMLFile(filePath: string): Promise<OrderRow[]> {
   }catch(error ) {
      throw new Error(`An error occured`);
   }
-   // ✅ important
 }

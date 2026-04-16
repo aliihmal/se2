@@ -31,7 +31,7 @@ export function maptobookOrder(raw:any):bookOrder{
     publisher: raw["Publisher"],
     special_edition: raw["Special Edition"],
     packaging: raw["Packaging"],
-    price: Number(raw["Price"]),        // ✅ string → number
+    price: Number(raw["Price"]),        
     quantity: Number(raw["Quantity"]) 
 
     }
