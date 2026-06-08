@@ -3,47 +3,34 @@
  * @param filePath - Path to the CSV file
  * @returns Promise<string[][]> - 2D array of strings
  */
-import { rejects } from "assert";
-import { promises as fs } from 'fs';
-
-export interface bookOrder{
-    order_id:number;
-    book_title:string;
-    Author:string;
-    Language: string,
-    genre:string;
-    format:string;
-    publisher:string;
-    special_edition:string;
-    packaging:string;
-    price: number;     
-  quantity: number; 
-}
-
-export function maptobookOrder(raw:any):bookOrder{
-    return {
-         order_id:Number (raw["Order ID"]),
-    book_title: raw["Book Title"],
-    Author: raw["Author"],
-    Language: raw["Language"],
-    genre: raw["Genre"],
-    format: raw["Format"],
-    publisher: raw["Publisher"],
-    special_edition: raw["Special Edition"],
-    packaging: raw["Packaging"],
-    price: Number(raw["Price"]),        
-    quantity: Number(raw["Quantity"]) 
-
-    }
-}
-export async function readJSON(filepath: string): Promise<bookOrder[]> {
+import { readFile } from "fs/promises";
+import { promises as fs, writeFile } from 'fs';
+export async function readJSON(filepath: string): Promise<any[]> {
     try {
-      const jsonData = await fs.readFile(filepath, "utf-8");
-      const orders: bookOrder[] = JSON.parse(jsonData);
-       const realData:bookOrder[] = orders.map(maptobookOrder);  
-     
-      return realData;
+      const data =await readFile(filepath, "utf-8");
+
+    const jsonData = JSON.parse(data);
+    return jsonData;
     } catch (error) {
-       throw new Error(`Error reading json file: ${error}`);
+       throw new Error(`Error reading json file dd`);
     }
+}
+
+export async function writeJSON(filePath:string,newOrder: object):Promise<void>{
+    try{
+        const JSONDdata = await readFile(filePath, "utf-8");
+
+        const orders = JSON.parse(JSONDdata);
+
+        orders.push(newOrder);
+
+    await fs.writeFile(
+        filePath,
+        JSON.stringify(orders, null, 2),
+        "utf-8"
+    );
+    }catch(error){
+        throw new Error(`An Error occured while writing into the file ${error}`)
+    }
+         
 }

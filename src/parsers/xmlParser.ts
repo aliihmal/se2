@@ -1,19 +1,9 @@
 import fs from "fs";
-import { parseStringPromise } from "xml2js";
+import { Builder, parseString, parseStringPromise } from "xml2js";
 
-interface OrderRow {
-  OrderID: number;
-  Type: string;
-  AgeGroup: string;
-  Brand: string;
-  Material: string;
-  BatteryRequired: string;
-  Educational: string;
-  Price: number;
-  Quantity: number;
-}
 
-export async function parseXMLFile(filePath: string): Promise<OrderRow[]> {
+
+export async function ReadXMLFile(filePath: string): Promise<any[]> {
   try{
     const xml = fs.readFileSync(filePath, "utf-8");
 
@@ -22,20 +12,45 @@ export async function parseXMLFile(filePath: string): Promise<OrderRow[]> {
     trim: true,
   });
 
-  const rows: OrderRow[] = result.data.row.map((r: any) => ({
-    OrderID: Number(r.OrderID),
-    Type: r.Type,
-    AgeGroup: r.AgeGroup,
-    Brand: r.Brand,
-    Material: r.Material,
-    BatteryRequired: r.BatteryRequired,
-    Educational: r.Educational,
-    Price: Number(r.Price),
-    Quantity: Number(r.Quantity),
-  }));
 
-  return rows;
+   let rows = result.data.row;
+
+    // IMPORTANT FIX
+    if (!rows) return [];
+    if (!Array.isArray(rows)) rows = [rows];
+
+    return rows;
   }catch(error ) {
      throw new Error(`An error occured`);
   }
+}
+
+export async function writeXML(filePath:string ,data:any):Promise<void>{
+    try {
+        const xmlData = fs.readFileSync(filePath, "utf-8");
+
+        parseString(xmlData, (err, result) => {
+            if (err) {
+                console.log("Parse error:", err);
+                return;
+            }
+
+            result.data = result.data || {};//If there's no data it will assign it to a an empty object
+            result.data.row = result.data.row || [];
+            if (!Array.isArray(result.data.row)) {
+                 result.data.row = [result.data.row];
+                }
+            result.data.row.push(data);
+
+            const builder = new Builder();
+            const newXml = builder.buildObject(result);
+
+            fs.writeFileSync(filePath, newXml);
+
+            console.log("Data inserted successfully!");
+        });
+
+    } catch (error) {
+        console.log(error);
+    }
 }
