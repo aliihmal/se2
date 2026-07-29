@@ -5,6 +5,7 @@
  */
 import { rejects } from "assert";
 import { promises as fs } from 'fs';
+import { readFile } from "fs/promises";
 
 export interface bookOrder{
     order_id:number;
@@ -31,7 +32,7 @@ export function maptobookOrder(raw:any):bookOrder{
     publisher: raw["Publisher"],
     special_edition: raw["Special Edition"],
     packaging: raw["Packaging"],
-    price: Number(raw["Price"]),        // ✅ string → number
+    price: Number(raw["Price"]),       
     quantity: Number(raw["Quantity"]) 
 
     }
@@ -47,3 +48,5 @@ export async function readJSON(filepath: string): Promise<bookOrder[]> {
        throw new Error(`Error reading json file: ${error}`);
     }
 }
+
+

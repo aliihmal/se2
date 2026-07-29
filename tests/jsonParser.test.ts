@@ -1,7 +1,6 @@
 import { assert } from "console";
 import { readJSON } from "../src/parsers/jsonParser";
-import { bookOrder } from "../src/parsers/jsonParser";  
-   import path from "path";
+import path from "path";
 describe("json Parser tester",()=>{
     test("should return 5 as the quantity of the first order " ,async()=>{
    

@@ -1,11 +1,14 @@
-import { item, itemCategory } from "./item.model";
-type CakeType="Birthday" | "Wedding" | "Anniversery" | "Graduation";
- export class Cake implements item{
+import { Iitem, itemCategory } from "./Iitem";
+import { IidentifiableItem } from "./Iitem";
+import { id } from "../repository/IRepository";
+
+
+ export class Cake implements Iitem{
     
-    private type: CakeType;
+    private type: string;
     private flavor: string;
     private filling: string;
-    private size: number;
+    private size: string;
     private layers: number;
     private frostingType: string;
     private frostingFlavor: string;
@@ -18,10 +21,10 @@ type CakeType="Birthday" | "Wedding" | "Anniversery" | "Graduation";
     private packagingType: string;
 
     constructor(
-      type: CakeType,
+      type: string,
       flavor: string,
       filling: string,
-      size: number,
+      size: string,
       layers: number,
       frostingType: string,
       frostingFlavor: string,
@@ -40,7 +43,7 @@ type CakeType="Birthday" | "Wedding" | "Anniversery" | "Graduation";
       this.layers = layers;
       this.frostingType = frostingType;
       this.frostingFlavor = frostingFlavor;
-     this.decorationType = decorationType;
+      this.decorationType = decorationType;
       this.decorationColor = decorationColor;
       this.customMessage = customMessage;
       this.shape = shape;
@@ -51,7 +54,7 @@ type CakeType="Birthday" | "Wedding" | "Anniversery" | "Graduation";
     getCategory(): itemCategory {
         return itemCategory.CAKE;
     }   
-    getType(): CakeType {
+    getType(): string {
   return this.type;
 }
 
@@ -63,7 +66,7 @@ getFilling(): string {
   return this.filling;
 }
 
-getSize(): number {
+getSize(): string {
   return this.size;
 }
 
@@ -106,4 +109,45 @@ getSpecialIngredients(): string {
 getPackagingType(): string {
   return this.packagingType;
 }
+}
+export class identifiableCake extends Cake implements IidentifiableItem{
+
+  constructor(
+    private id: id,
+    type: string,
+    flavor: string,
+    filling: string,
+    size: string,
+    layers: number,
+    frostingType: string,
+    frostingFlavor: string,
+    decorationType: string,
+    decorationColor: string,
+    customMessage: string,
+    shape: string,
+    allergies: string,
+    specialIngredients: string,
+    packagingType: string
+  ) {
+    super(
+      type,
+      flavor,
+      filling,
+      size,
+      layers,
+      frostingType,
+      frostingFlavor,
+      decorationType,
+      decorationColor,
+      customMessage,
+      shape,
+      allergies,
+      specialIngredients,
+      packagingType
+    );
+  }
+  getId(): string {
+    return this.id;
+  }
+
 }

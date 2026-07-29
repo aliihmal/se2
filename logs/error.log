@@ -4,3 +4,214 @@
 {"level":"error","message":"price must be positive"}
 {"level":"error","message":"price must be under 100"}
 {"level":"error","message":"price must be positive","timestamp":"2026-02-03T05:39:48.873Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-04-14T07:21:13.353Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-04-14T07:21:56.505Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-04-14T07:22:25.572Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-04-14T07:24:03.459Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-04-14T07:25:03.424Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-04-14T07:25:18.257Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-04-14T07:25:36.027Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-04-14T07:26:14.883Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-04-14T07:27:15.270Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-04-14T07:29:16.181Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-04-14T07:30:48.793Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-04-14T07:32:59.750Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-04-14T07:35:01.112Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-04-14T07:35:19.635Z"}
+{"code":"SQLITE_ERROR","errno":1,"level":"error","message":"Failed to initialized the order Table SQLITE_ERROR: near \"order\": syntax error","stack":"Error: SQLITE_ERROR: near \"order\": syntax error","timestamp":"2026-04-28T05:48:32.355Z"}
+{"level":"error","message":"Failed to get order of id 34256the error is %o","timestamp":"2026-04-28T06:25:30.771Z"}
+{"level":"error","message":"error in dbbox  Faileto get the order of the id34256because of %o : %{e.message}","name":"DB Exception","stack":"Error: SQLITE_ERROR: near \"FROM\": syntax error","timestamp":"2026-04-28T06:25:30.772Z"}
+{"level":"error","message":"Failed to get order of id 34256the error is %o","timestamp":"2026-04-28T06:25:52.234Z"}
+{"level":"error","message":"error in dbbox  Faileto get the order of the id34256because of %o : %{e.message}","name":"DB Exception","stack":"Error: SQLITE_ERROR: near \"FROM\": syntax error","timestamp":"2026-04-28T06:25:52.235Z"}
+{"level":"error","message":"error in dbbox  the error is Error: Method not implemented.","stack":"Error: the error is Error: Method not implemented.\n    at OrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:102:19)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:5:58)","timestamp":"2026-04-30T08:52:10.878Z"}
+{"level":"error","message":"order of id 345345not found ","timestamp":"2026-05-02T06:44:21.867Z"}
+{"level":"error","message":"Failed to get order of id 345345the error is %o","timestamp":"2026-05-02T06:44:21.871Z"}
+{"level":"error","message":"error in dbbox  Failed to create Order  : %{e.message}","name":"DB Exception","stack":"Error: order of id 345345not found \n    at OrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:71:23)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:5:58)","timestamp":"2026-05-02T06:44:21.872Z"}
+{"level":"error","message":"Failed to get all order   Cannot find the item of id 17","stack":"Error: Cannot find the item of id 17\n    at C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:96:22\n    at Array.map (<anonymous>)\n    at OrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:93:38)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:5:58)","timestamp":"2026-05-02T06:46:06.706Z"}
+{"level":"error","message":"error in dbbox  Faileto get the all order : %{e.message}","name":"DB Exception","stack":"Error: Cannot find the item of id 17\n    at C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:96:22\n    at Array.map (<anonymous>)\n    at OrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:93:38)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:5:58)","timestamp":"2026-05-02T06:46:06.707Z"}
+{"level":"error","message":"Failed to get all order   Cannot find the item of id 17","stack":"Error: Cannot find the item of id 17\n    at C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:96:22\n    at Array.map (<anonymous>)\n    at OrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:93:38)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:5:58)","timestamp":"2026-05-02T06:46:34.481Z"}
+{"level":"error","message":"error in dbbox  Faileto get the all order : %{e.message}","name":"DB Exception","stack":"Error: Cannot find the item of id 17\n    at C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:96:22\n    at Array.map (<anonymous>)\n    at OrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:93:38)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:5:58)","timestamp":"2026-05-02T06:46:34.482Z"}
+{"level":"error","message":"Failed to get all order   Cannot find the item of id 17","stack":"Error: Cannot find the item of id 17\n    at C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:96:22\n    at Array.map (<anonymous>)\n    at OrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:93:38)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:5:58)","timestamp":"2026-05-02T06:47:45.903Z"}
+{"level":"error","message":"error in dbbox  Faileto get the all order : %{e.message}","name":"DB Exception","stack":"Error: Cannot find the item of id 17\n    at C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:96:22\n    at Array.map (<anonymous>)\n    at OrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:93:38)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:5:58)","timestamp":"2026-05-02T06:47:45.904Z"}
+{"level":"error","message":"Failed to get all order   Cannot find the item of id 17","stack":"Error: Cannot find the item of id 17\n    at C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:96:22\n    at Array.map (<anonymous>)\n    at OrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:93:38)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:5:58)","timestamp":"2026-05-02T06:50:56.953Z"}
+{"level":"error","message":"error in dbbox  Faileto get the all order : %{e.message}","name":"DB Exception","stack":"Error: Cannot find the item of id 17\n    at C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:96:22\n    at Array.map (<anonymous>)\n    at OrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:93:38)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:5:58)","timestamp":"2026-05-02T06:50:56.954Z"}
+{"level":"error","message":"Failed to get all order   Cannot find the item of id 17","stack":"Error: Cannot find the item of id 17\n    at C:\\Users\\Lenovo\\Desktop\\se2\\build\\repository\\sqlite\\order.repository.js:105:31\n    at Array.map (<anonymous>)\n    at OrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\build\\repository\\sqlite\\order.repository.js:102:44)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\build\\repository\\sqlite\\order.repository.js:5:58)","timestamp":"2026-05-02T06:53:30.543Z"}
+{"level":"error","message":"error in dbbox  Faileto get the all order : %{e.message}","name":"DB Exception","stack":"Error: Cannot find the item of id 17\n    at C:\\Users\\Lenovo\\Desktop\\se2\\build\\repository\\sqlite\\order.repository.js:105:31\n    at Array.map (<anonymous>)\n    at OrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\build\\repository\\sqlite\\order.repository.js:102:44)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\build\\repository\\sqlite\\order.repository.js:5:58)","timestamp":"2026-05-02T06:53:59.626Z"}
+{"level":"error","message":"Failed to get all order   Cannot find the item of id 17","stack":"Error: Cannot find the item of id 17\n    at C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:96:22\n    at Array.map (<anonymous>)\n    at OrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:93:38)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:5:58)","timestamp":"2026-05-02T06:54:33.092Z"}
+{"level":"error","message":"error in dbbox  Faileto get the all order : %{e.message}","name":"DB Exception","stack":"Error: Cannot find the item of id 17\n    at C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:96:22\n    at Array.map (<anonymous>)\n    at OrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:93:38)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:5:58)","timestamp":"2026-05-02T06:54:33.093Z"}
+{"level":"error","message":"order of id 1not found ","timestamp":"2026-05-03T05:47:59.118Z"}
+{"level":"error","message":"Failed to get order of id 1the error is %o","timestamp":"2026-05-03T05:47:59.129Z"}
+{"level":"error","message":"error in dbbox  Failed to create Order  : %{e.message}","name":"DB Exception","stack":"Error: order of id 1not found \n    at OrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:73:23)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:5:58)","timestamp":"2026-05-03T05:47:59.131Z"}
+{"level":"error","message":"order of id 1not found ","timestamp":"2026-05-03T05:48:21.995Z"}
+{"level":"error","message":"Failed to get order of id 1the error is %o","timestamp":"2026-05-03T05:48:22.003Z"}
+{"level":"error","message":"error in dbbox  Failed to create Order  : %{e.message}","name":"DB Exception","stack":"Error: order of id 1not found \n    at OrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:73:23)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:5:58)","timestamp":"2026-05-03T05:48:22.006Z"}
+{"level":"error","message":"Failed to get all order   Cannot find the item of id 234245634","stack":"Error: Cannot find the item of id 234245634\n    at C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:97:22\n    at Array.map (<anonymous>)\n    at OrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:94:38)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:5:58)","timestamp":"2026-05-03T05:51:27.601Z"}
+{"level":"error","message":"error in dbbox  Faileto get the all order : %{e.message}","name":"DB Exception","stack":"Error: Cannot find the item of id 234245634\n    at C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:97:22\n    at Array.map (<anonymous>)\n    at OrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:94:38)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:5:58)","timestamp":"2026-05-03T05:51:27.602Z"}
+{"level":"error","message":"Failed to get all order   Cannot find the item of id 234245634","stack":"Error: Cannot find the item of id 234245634\n    at C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:97:22\n    at Array.map (<anonymous>)\n    at OrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:94:38)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:5:58)","timestamp":"2026-05-03T05:51:45.194Z"}
+{"level":"error","message":"error in dbbox  Faileto get the all order : %{e.message}","name":"DB Exception","stack":"Error: Cannot find the item of id 234245634\n    at C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:97:22\n    at Array.map (<anonymous>)\n    at OrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:94:38)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\sqlite\\order.repository.ts:5:58)","timestamp":"2026-05-03T05:51:45.195Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-05-05T05:54:08.189Z"}
+{"level":"error","message":"error in dbbox  Failed to Load Order  : %{e.message}","name":"DB Exception","stack":"Error: All properties must be set before building the cake.\n    at Cakebuilder.build (C:\\Users\\Lenovo\\Desktop\\se2\\src\\model\\builder\\cake.builder.ts:115:17)\n    at CSVCakeMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\src\\IMapper\\Cake.Mapper.ts:41:14)\n    at CSVOrderMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\src\\IMapper\\Order.Mapper.ts:22:44)\n    at Array.map (<anonymous>)\n    at cakeOrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\file\\cake.order.repository.ts:18:19)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\file\\cake.order.repository.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-05T05:54:08.198Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-05-05T05:54:37.451Z"}
+{"level":"error","message":"error in dbbox  Failed to Load Order  : %{e.message}","name":"DB Exception","stack":"Error: All properties must be set before building the cake.\n    at Cakebuilder.build (C:\\Users\\Lenovo\\Desktop\\se2\\src\\model\\builder\\cake.builder.ts:115:17)\n    at CSVCakeMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\src\\IMapper\\Cake.Mapper.ts:41:14)\n    at CSVOrderMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\src\\IMapper\\Order.Mapper.ts:22:44)\n    at Array.map (<anonymous>)\n    at cakeOrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\file\\cake.order.repository.ts:18:19)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\file\\cake.order.repository.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-05T05:54:37.459Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-05-05T05:58:54.290Z"}
+{"level":"error","message":"error in dbbox  Failed to Load Order  : %{e.message}","name":"DB Exception","stack":"Error: All properties must be set before building the cake.\n    at Cakebuilder.build (C:\\Users\\Lenovo\\Desktop\\se2\\src\\model\\builder\\cake.builder.ts:115:17)\n    at CSVCakeMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\src\\IMapper\\Cake.Mapper.ts:41:14)\n    at CSVOrderMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\src\\IMapper\\Order.Mapper.ts:22:44)\n    at Array.map (<anonymous>)\n    at cakeOrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\file\\cake.order.repository.ts:18:19)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\file\\cake.order.repository.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-05T05:58:54.298Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-05-05T06:01:13.800Z"}
+{"level":"error","message":"error in dbbox  Failed to Load Order  : %{e.message}","name":"DB Exception","stack":"Error: All properties must be set before building the cake.\n    at Cakebuilder.build (C:\\Users\\Lenovo\\Desktop\\se2\\src\\model\\builder\\cake.builder.ts:117:17)\n    at CSVCakeMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\src\\IMapper\\Cake.Mapper.ts:41:14)\n    at CSVOrderMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\src\\IMapper\\Order.Mapper.ts:22:44)\n    at Array.map (<anonymous>)\n    at cakeOrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\file\\cake.order.repository.ts:18:19)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\file\\cake.order.repository.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-05T06:01:13.807Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-05-05T06:02:49.713Z"}
+{"level":"error","message":"error in dbbox  Failed to Load Order  : %{e.message}","name":"DB Exception","stack":"Error: All properties must be set before building the cake.\n    at Cakebuilder.build (C:\\Users\\Lenovo\\Desktop\\se2\\src\\model\\builder\\cake.builder.ts:117:17)\n    at CSVCakeMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\src\\IMapper\\Cake.Mapper.ts:41:14)\n    at CSVOrderMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\src\\IMapper\\Order.Mapper.ts:22:44)\n    at Array.map (<anonymous>)\n    at cakeOrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\file\\cake.order.repository.ts:18:19)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\file\\cake.order.repository.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-05T06:02:49.721Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-05-05T06:03:04.259Z"}
+{"level":"error","message":"error in dbbox  Failed to Load Order  : %{e.message}","name":"DB Exception","stack":"Error: All properties must be set before building the cake.\n    at Cakebuilder.build (C:\\Users\\Lenovo\\Desktop\\se2\\src\\model\\builder\\cake.builder.ts:117:17)\n    at CSVCakeMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\src\\IMapper\\Cake.Mapper.ts:41:14)\n    at CSVOrderMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\src\\IMapper\\Order.Mapper.ts:22:44)\n    at Array.map (<anonymous>)\n    at cakeOrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\file\\cake.order.repository.ts:18:19)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\file\\cake.order.repository.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-05T06:03:04.271Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-05-05T06:06:53.820Z"}
+{"level":"error","message":"error in dbbox  Failed to Load Order  : %{e.message}","name":"DB Exception","stack":"Error: All properties must be set before building the cake.\n    at Cakebuilder.build (C:\\Users\\Lenovo\\Desktop\\se2\\build\\model\\builder\\cake.builder.js:92:23)\n    at CSVCakeMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\build\\IMapper\\Cake.Mapper.js:40:14)\n    at CSVOrderMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\build\\IMapper\\Order.Mapper.js:19:38)\n    at Array.map (<anonymous>)\n    at cakeOrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\build\\repository\\file\\cake.order.repository.js:28:28)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\build\\repository\\file\\cake.order.repository.js:5:58)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-05T06:06:53.822Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-05-05T06:13:21.017Z"}
+{"level":"error","message":"error in dbbox  Failed to Load Order hererererer : %{e.message}","name":"DB Exception","stack":"Error: All properties must be set before building the cake.\n    at Cakebuilder.build (C:\\Users\\Lenovo\\Desktop\\se2\\src\\model\\builder\\cake.builder.ts:117:17)\n    at CSVCakeMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\src\\IMapper\\Cake.Mapper.ts:41:14)\n    at CSVOrderMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\src\\IMapper\\Order.Mapper.ts:22:44)\n    at Array.map (<anonymous>)\n    at cakeOrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\file\\cake.order.repository.ts:18:19)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\file\\cake.order.repository.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-05T06:13:21.025Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-05-05T06:20:00.547Z"}
+{"level":"error","message":"error in dbbox  Failed to Load Order hererererer : %{e.message}","name":"DB Exception","stack":"Error: All properties must be set before building the cake.\n    at Cakebuilder.build (C:\\Users\\Lenovo\\Desktop\\se2\\src\\model\\builder\\cake.builder.ts:117:17)\n    at CSVCakeMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\src\\IMapper\\Cake.Mapper.ts:41:14)\n    at CSVOrderMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\src\\IMapper\\Order.Mapper.ts:22:44)\n    at Array.map (<anonymous>)\n    at cakeOrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\file\\cake.order.repository.ts:18:19)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\file\\cake.order.repository.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-05T06:20:00.557Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-05-05T06:31:32.477Z"}
+{"level":"error","message":"error in dbbox  Failed to Load Order hererererer : %{e.message}","name":"DB Exception","stack":"Error: All properties must be set before building the cake.\n    at Cakebuilder.build (C:\\Users\\Lenovo\\Desktop\\se2\\src\\model\\builder\\cake.builder.ts:117:17)\n    at CSVCakeMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\src\\IMapper\\Cake.Mapper.ts:41:14)\n    at CSVOrderMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\src\\IMapper\\Order.Mapper.ts:22:44)\n    at Array.map (<anonymous>)\n    at cakeOrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\file\\cake.order.repository.ts:16:19)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\file\\cake.order.repository.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-05T06:31:32.486Z"}
+{"level":"error","message":"All properties must be set before building the cake.","timestamp":"2026-05-05T06:32:10.550Z"}
+{"level":"error","message":"error in dbbox  Failed to Load Order hererererer : %{e.message}","name":"DB Exception","stack":"Error: All properties must be set before building the cake.\n    at Cakebuilder.build (C:\\Users\\Lenovo\\Desktop\\se2\\src\\model\\builder\\cake.builder.ts:117:17)\n    at CSVCakeMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\src\\IMapper\\Cake.Mapper.ts:41:14)\n    at CSVOrderMapper.map (C:\\Users\\Lenovo\\Desktop\\se2\\src\\IMapper\\Order.Mapper.ts:22:44)\n    at Array.map (<anonymous>)\n    at cakeOrderRepository.<anonymous> (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\file\\cake.order.repository.ts:16:19)\n    at Generator.next (<anonymous>)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\se2\\src\\repository\\file\\cake.order.repository.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-05T06:32:10.562Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-08T06:42:30.400Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-08T06:43:45.786Z"}
+{"level":"error","message":"order of id ordersnot found ","timestamp":"2026-05-08T06:46:29.990Z"}
+{"level":"error","message":"Failed to get order of id ordersthe error is %o","timestamp":"2026-05-08T06:46:30.001Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-08T06:46:30.004Z"}
+{"level":"error","message":"order of id ordersnot found ","timestamp":"2026-05-08T06:47:21.399Z"}
+{"level":"error","message":"Failed to get order of id ordersthe error is %o","timestamp":"2026-05-08T06:47:21.401Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-08T06:47:21.403Z"}
+{"level":"error","message":"order of id ordersnot found ","timestamp":"2026-05-08T06:47:22.692Z"}
+{"level":"error","message":"Failed to get order of id ordersthe error is %o","timestamp":"2026-05-08T06:47:22.694Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-08T06:47:22.695Z"}
+{"level":"error","message":"order of id ordersnot found ","timestamp":"2026-05-08T06:51:16.398Z"}
+{"level":"error","message":"Failed to get order of id ordersthe error is %o","timestamp":"2026-05-08T06:51:16.405Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-08T06:51:16.407Z"}
+{"level":"error","message":"order of id ordersnot found ","timestamp":"2026-05-08T06:51:17.481Z"}
+{"level":"error","message":"Failed to get order of id ordersthe error is %o","timestamp":"2026-05-08T06:51:17.483Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-08T06:51:17.484Z"}
+{"level":"error","message":"order of id ordersnot found ","timestamp":"2026-05-08T06:51:23.450Z"}
+{"level":"error","message":"Failed to get order of id ordersthe error is %o","timestamp":"2026-05-08T06:51:23.451Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-08T06:51:23.453Z"}
+{"level":"error","message":"order of id ordersnot found ","timestamp":"2026-05-08T06:51:23.984Z"}
+{"level":"error","message":"Failed to get order of id ordersthe error is %o","timestamp":"2026-05-08T06:51:23.986Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-08T06:51:23.987Z"}
+{"level":"error","message":"order of id ordersnot found ","timestamp":"2026-05-08T06:51:24.494Z"}
+{"level":"error","message":"Failed to get order of id ordersthe error is %o","timestamp":"2026-05-08T06:51:24.496Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-08T06:51:24.497Z"}
+{"level":"error","message":"order of id ordersnot found ","timestamp":"2026-05-08T06:51:25.063Z"}
+{"level":"error","message":"Failed to get order of id ordersthe error is %o","timestamp":"2026-05-08T06:51:25.065Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-08T06:51:25.066Z"}
+{"level":"error","message":"order of id ordersnot found ","timestamp":"2026-05-08T06:51:25.768Z"}
+{"level":"error","message":"Failed to get order of id ordersthe error is %o","timestamp":"2026-05-08T06:51:25.769Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-08T06:51:25.771Z"}
+{"level":"error","message":"order of id ordersnot found ","timestamp":"2026-05-08T06:51:26.601Z"}
+{"level":"error","message":"Failed to get order of id ordersthe error is %o","timestamp":"2026-05-08T06:51:26.603Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-08T06:51:26.604Z"}
+{"level":"error","message":"order of id ordersnot found ","timestamp":"2026-05-08T06:53:00.895Z"}
+{"level":"error","message":"Failed to get order of id ordersthe error is %o","timestamp":"2026-05-08T06:53:00.896Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-08T06:53:00.897Z"}
+{"level":"error","message":"order of id ordersnot found ","timestamp":"2026-05-08T06:54:25.008Z"}
+{"level":"error","message":"Failed to get order of id ordersthe error is %o","timestamp":"2026-05-08T06:54:25.010Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-08T06:54:25.011Z"}
+{"level":"error","message":"order of id ordersnot found ","timestamp":"2026-05-08T06:55:07.826Z"}
+{"level":"error","message":"Failed to get order of id ordersthe error is %o","timestamp":"2026-05-08T06:55:07.840Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-08T06:55:07.842Z"}
+{"level":"error","message":"order of id ordersnot found ","timestamp":"2026-05-10T07:01:13.930Z"}
+{"level":"error","message":"Failed to get order of id ordersthe error is %o","timestamp":"2026-05-10T07:01:13.937Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-10T07:01:13.938Z"}
+{"level":"error","message":"order of id ordersnot found ","timestamp":"2026-05-10T07:01:30.760Z"}
+{"level":"error","message":"Failed to get order of id ordersthe error is %o","timestamp":"2026-05-10T07:01:30.761Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-10T07:01:30.762Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-10T07:03:47.517Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-10T07:04:34.165Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-05-10T07:19:10.187Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-05-10T07:19:19.767Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-05-10T07:20:24.384Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-05-10T10:15:44.766Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-05-10T10:15:45.817Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-05-10T10:16:39.928Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-05-10T10:16:40.832Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-05-10T10:16:55.015Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-05-10T10:18:01.206Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-05-10T10:18:02.436Z"}
+{"level":"error","timestamp":"2026-05-11T10:11:03.863Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-11T10:11:03.868Z"}
+{"level":"error","timestamp":"2026-05-11T10:16:29.695Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-11T10:16:29.697Z"}
+{"level":"error","timestamp":"2026-05-11T10:16:32.699Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-11T10:16:32.701Z"}
+{"level":"error","timestamp":"2026-05-11T10:16:33.860Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-11T10:16:33.861Z"}
+{"code":"SQLITE_CONSTRAINT","errno":19,"level":"error","message":"failed to create cake  SQLITE_CONSTRAINT: UNIQUE constraint failed: cake.id","stack":"Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: cake.id","timestamp":"2026-05-11T10:18:51.850Z"}
+{"level":"error","name":"DB Exception","timestamp":"2026-05-11T10:18:51.852Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-11T10:18:51.853Z"}
+{"code":"SQLITE_CONSTRAINT","errno":19,"level":"error","message":"failed to create cake  SQLITE_CONSTRAINT: UNIQUE constraint failed: cake.id","stack":"Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: cake.id","timestamp":"2026-05-11T10:18:54.371Z"}
+{"level":"error","name":"DB Exception","timestamp":"2026-05-11T10:18:54.373Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-11T10:18:54.374Z"}
+{"code":"SQLITE_CONSTRAINT","errno":19,"level":"error","message":"failed to create cake  SQLITE_CONSTRAINT: UNIQUE constraint failed: cake.id","stack":"Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: cake.id","timestamp":"2026-05-11T10:18:54.931Z"}
+{"level":"error","name":"DB Exception","timestamp":"2026-05-11T10:18:54.932Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-11T10:18:54.933Z"}
+{"code":"SQLITE_CONSTRAINT","errno":19,"level":"error","message":"failed to create cake  SQLITE_CONSTRAINT: UNIQUE constraint failed: cake.id","stack":"Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: cake.id","timestamp":"2026-05-11T10:18:57.214Z"}
+{"level":"error","name":"DB Exception","timestamp":"2026-05-11T10:18:57.215Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-11T10:18:57.215Z"}
+{"code":"SQLITE_CONSTRAINT","errno":19,"level":"error","message":"failed to create cake  SQLITE_CONSTRAINT: UNIQUE constraint failed: cake.id","stack":"Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: cake.id","timestamp":"2026-05-11T10:18:57.645Z"}
+{"level":"error","name":"DB Exception","timestamp":"2026-05-11T10:18:57.646Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-11T10:18:57.647Z"}
+{"code":"SQLITE_CONSTRAINT","errno":19,"level":"error","message":"failed to create cake  SQLITE_CONSTRAINT: UNIQUE constraint failed: cake.id","stack":"Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: cake.id","timestamp":"2026-05-11T10:18:58.656Z"}
+{"level":"error","name":"DB Exception","timestamp":"2026-05-11T10:18:58.658Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-11T10:18:58.659Z"}
+{"code":"SQLITE_CONSTRAINT","errno":19,"level":"error","message":"failed to create cake  SQLITE_CONSTRAINT: UNIQUE constraint failed: cake.id","stack":"Error: SQLITE_CONSTRAINT: UNIQUE constraint failed: cake.id","timestamp":"2026-05-11T10:18:59.374Z"}
+{"level":"error","name":"DB Exception","timestamp":"2026-05-11T10:18:59.376Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-11T10:18:59.376Z"}
+{"level":"error","message":"order of id 1234not found ","timestamp":"2026-05-12T05:27:22.764Z"}
+{"level":"error","message":"Failed to get order of id 1234the error is %o","timestamp":"2026-05-12T05:27:22.772Z"}
+{"level":"error","message":"API Execption of status %d: %s","timestamp":"2026-05-12T05:27:22.774Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-05-12T06:05:27.966Z"}
+{"level":"error","message":"GET 500 /orders/2 3","timestamp":"2026-05-12T06:05:27.967Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-05-12T06:06:45.671Z"}
+{"level":"error","message":"GET 500 /orders/12345 4","timestamp":"2026-05-12T06:06:45.673Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-05-12T06:07:49.233Z"}
+{"level":"error","message":"GET 500 /orders/12345 3","timestamp":"2026-05-12T06:07:49.235Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-05-12T06:08:44.072Z"}
+{"level":"error","message":"POST 500 /orders/ 3","timestamp":"2026-05-12T06:08:44.074Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-05-12T06:09:21.532Z"}
+{"level":"error","message":"POST 500 /orders 2","timestamp":"2026-05-12T06:09:21.533Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-05-14T08:12:14.025Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-05-14T08:12:16.628Z"}
+{"level":"error","message":"Failed to insert the user with id user-6e650d15-1173-454b-a845-43f077dfdfac","timestamp":"2026-05-14T08:24:31.305Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-05-14T08:24:31.308Z"}
+{"level":"error","message":"POST 500 /user 60","timestamp":"2026-05-14T08:24:31.315Z"}
+{"level":"error","message":"order of id user-1e313c5d-fa77-4f94-a37c-15355b635cb7not found ","timestamp":"2026-05-15T06:40:55.854Z"}
+{"level":"error","message":"Failed to get order of id user-1e313c5d-fa77-4f94-a37c-15355b635cb7the error is %o","timestamp":"2026-05-15T06:40:55.861Z"}
+{"level":"error","message":"%s [%d] :  %s %s %o","timestamp":"2026-05-15T06:40:55.863Z"}
+{"level":"error","message":"order of id user-1e313c5d-fa77-4f94-a37c-15355b635cb7not found ","timestamp":"2026-05-15T06:41:23.992Z"}
+{"level":"error","message":"Failed to get order of id user-1e313c5d-fa77-4f94-a37c-15355b635cb7the error is %o","timestamp":"2026-05-15T06:41:23.993Z"}
+{"level":"error","message":"%s [%d] :  %s %s %o","timestamp":"2026-05-15T06:41:23.995Z"}
+{"level":"error","message":"%s [%d] :  %s %s %o","timestamp":"2026-06-08T08:27:16.578Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-06-08T08:27:41.006Z"}
+{"level":"error","message":"GET 500 /user 6","timestamp":"2026-06-08T08:27:41.009Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-06-08T08:27:45.541Z"}
+{"level":"error","message":"GET 500 /user 3","timestamp":"2026-06-08T08:27:45.543Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-06-08T08:27:46.583Z"}
+{"level":"error","message":"GET 500 /user 2","timestamp":"2026-06-08T08:27:46.584Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-06-08T08:28:29.357Z"}
+{"level":"error","message":"GET 500 /user 4","timestamp":"2026-06-08T08:28:29.359Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-06-08T08:28:30.270Z"}
+{"level":"error","message":"GET 500 /user 2","timestamp":"2026-06-08T08:28:30.271Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-06-08T08:28:30.434Z"}
+{"level":"error","message":"GET 500 /user 2","timestamp":"2026-06-08T08:28:30.435Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-06-08T08:28:36.394Z"}
+{"level":"error","message":"GET 500 /user 2","timestamp":"2026-06-08T08:28:36.396Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-06-08T08:29:11.999Z"}
+{"level":"error","message":"GET 500 /user 9","timestamp":"2026-06-08T08:29:12.007Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-06-08T09:20:09.818Z"}
+{"level":"error","message":"POST 500 /auth/login 41","timestamp":"2026-06-08T09:20:09.820Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-06-08T09:20:23.092Z"}
+{"level":"error","message":"POST 500 /auth/login 3","timestamp":"2026-06-08T09:20:23.094Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-06-08T09:20:23.729Z"}
+{"level":"error","message":"POST 500 /auth/login 3","timestamp":"2026-06-08T09:20:23.731Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-06-08T09:21:19.794Z"}
+{"level":"error","message":"POST 500 /Auth/login 9","timestamp":"2026-06-08T09:21:19.798Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-06-08T09:22:01.031Z"}
+{"level":"error","message":"POST 500 /Auth/login 4","timestamp":"2026-06-08T09:22:01.034Z"}
+{"level":"error","message":"internal server Error %s","timestamp":"2026-06-08T09:29:14.799Z"}
+{"level":"error","message":"POST 500 /Auth/login 10","timestamp":"2026-06-08T09:29:14.802Z"}

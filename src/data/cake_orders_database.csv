@@ -1,201 +1,264 @@
-id,type,flavor,filling,size,layers,frosting type,frosting flavor,decoration type,decoration color,custom message,shape,allergies,special ingredients,packaging type,price,quantity
-1,Graduation,Coffee,Cream Cheese,Large,4,Cream Cheese,Red Velvet,Drip Design,Ivory,Message 1,Round,Nuts,None,Box,114.31,4
-2,Valentine,Strawberry,Vanilla Cream,Large,3,Buttercream,Vanilla,Flowers,Black,Message 2,Rectangle,Dairy,Gluten-Free Flour,Premium Box,89.38,2
-3,Wedding,Lemon,Lemon Curd,Medium,5,Cream Cheese,Chocolate,Hearts,Purple,Message 3,Rectangle,Dairy,Gluten-Free Flour,Custom Packaging,63.57,4
-4,Valentine,Coffee,Caramel,Medium,5,Buttercream,Strawberry,Drip Design,White,Message 4,Square,Nuts,None,Premium Box,129.02,2
-5,Anniversary,Coffee,Cream Cheese,Medium,2,Cream Cheese,Chocolate,Sprinkles,Black,Message 5,Round,Gluten,Sugar-Free,Custom Packaging,118.19,5
-6,Graduation,Coffee,Caramel,Large,4,Whipped Cream,Strawberry,Drip Design,White,Message 6,Square,None,None,Premium Box,15.16,5
-7,Anniversary,Chocolate,Strawberry Jam,Large,1,Cream Cheese,Red Velvet,Hearts,Black,Message 7,Round,Gluten,Gluten-Free Flour,Box,64.23,3
-8,Valentine,Red Velvet,Vanilla Cream,Small,4,Cream Cheese,Chocolate,Sprinkles,White,Message 8,Rectangle,Dairy,Vegan,Box,66.97,2
-9,Engagement,Vanilla,Caramel,Small,1,Buttercream,Vanilla,Hearts,Red,Message 9,Square,Gluten,Vegan,Premium Box,139.29,3
-10,Graduation,Lemon,Cream Cheese,Large,1,Whipped Cream,Coffee,Classic,Red,Message 10,Rectangle,Nuts,Vegan,Premium Box,148.98,3
-11,Baby Shower,Chocolate,Lemon Curd,Small,4,Cream Cheese,Vanilla,Minimalist,Purple,Message 11,Round,None,None,Premium Box,114.0,5
-12,Birthday,Vanilla,Vanilla Cream,Small,4,Cream Cheese,Lemon,Sprinkles,Red,Message 12,Square,Gluten,Gluten-Free Flour,Premium Box,45.44,1
-13,Baby Shower,Red Velvet,Vanilla Cream,Small,1,Whipped Cream,Chocolate,Classic,Red,Message 13,Square,Dairy,Sugar-Free,Premium Box,53.7,1
-14,Engagement,Red Velvet,Cream Cheese,Medium,2,Buttercream,Funfetti,Hearts,Blue,Message 14,Square,Gluten,Vegan,Box,125.5,1
-15,Anniversary,Lemon,Mocha Cream,Large,4,Whipped Cream,Red Velvet,Sprinkles,Ivory,Message 15,Square,Nuts,Sugar-Free,Box,121.21,4
-16,Engagement,Coffee,Caramel,Small,5,Buttercream,Lemon,Hearts,Red,Message 16,Heart,None,Gluten-Free Flour,Premium Box,62.84,5
-17,Wedding,Vanilla,Mocha Cream,Large,3,Whipped Cream,Vanilla,Minimalist,Gold,Message 17,Round,Dairy,Vegan,Box,46.96,2
-18,Valentine,Lemon,Chocolate Cream,Large,5,Buttercream,Chocolate,Sprinkles,Ivory,Message 18,Round,Dairy,Vegan,Premium Box,126.74,3
-19,Birthday,Funfetti,Mocha Cream,Large,2,Cream Cheese,Funfetti,Sprinkles,Red,Message 19,Round,Dairy,Gluten-Free Flour,Custom Packaging,108.57,2
-20,Anniversary,Coffee,Lemon Curd,Large,5,Whipped Cream,Coffee,Drip Design,White,Message 20,Rectangle,Dairy,None,Box,113.34,5
-21,Baby Shower,Strawberry,Cream Cheese,Medium,5,Buttercream,Strawberry,Logo,Blue,Message 21,Round,Dairy,Vegan,Custom Packaging,129.49,1
-22,Valentine,Red Velvet,Chocolate Cream,Medium,5,Buttercream,Chocolate,Classic,Black,Message 22,Square,None,Sugar-Free,Custom Packaging,118.28,3
-23,Birthday,Funfetti,Cream Cheese,Large,5,Whipped Cream,Coffee,Hearts,Pink,Message 23,Round,None,None,Custom Packaging,76.51,2
-24,Birthday,Red Velvet,Cream Cheese,Large,4,Buttercream,Funfetti,Drip Design,Purple,Message 24,Heart,Nuts,None,Box,82.08,1
-25,Anniversary,Chocolate,Chocolate Cream,Small,5,Buttercream,Strawberry,Flowers,Ivory,Message 25,Round,Nuts,Gluten-Free Flour,Premium Box,73.5,3
-26,Engagement,Coffee,Chocolate Cream,Medium,5,Whipped Cream,Funfetti,Minimalist,Black,Message 26,Round,Gluten,Sugar-Free,Box,66.68,4
-27,Corporate,Red Velvet,Lemon Curd,Small,3,Cream Cheese,Lemon,Hearts,Pink,Message 27,Square,Nuts,Vegan,Box,113.29,2
-28,Valentine,Strawberry,Cream Cheese,Small,3,Whipped Cream,Funfetti,Flowers,Gold,Message 28,Square,Nuts,Vegan,Premium Box,20.75,4
-29,Corporate,Chocolate,Lemon Curd,Large,3,Whipped Cream,Lemon,Hearts,Ivory,Message 29,Rectangle,None,Vegan,Premium Box,19.04,3
-30,Birthday,Red Velvet,Vanilla Cream,Large,5,Buttercream,Vanilla,Flowers,Red,Message 30,Rectangle,Dairy,None,Premium Box,114.15,2
-31,Corporate,Coffee,Mocha Cream,Small,3,Buttercream,Funfetti,Classic,White,Message 31,Square,None,Sugar-Free,Custom Packaging,117.45,3
-32,Birthday,Chocolate,Vanilla Cream,Medium,3,Buttercream,Red Velvet,Flowers,Ivory,Message 32,Square,Dairy,Sugar-Free,Box,17.17,5
-33,Graduation,Vanilla,Vanilla Cream,Small,3,Cream Cheese,Lemon,Classic,White,Message 33,Heart,Gluten,Gluten-Free Flour,Box,92.7,4
-34,Baby Shower,Red Velvet,Strawberry Jam,Large,4,Cream Cheese,Red Velvet,Flowers,Purple,Message 34,Heart,Dairy,Gluten-Free Flour,Premium Box,93.61,2
-35,Engagement,Chocolate,Mocha Cream,Large,4,Whipped Cream,Red Velvet,Classic,Black,Message 35,Round,Dairy,None,Custom Packaging,129.01,1
-36,Anniversary,Chocolate,Cream Cheese,Medium,2,Whipped Cream,Coffee,Hearts,Blue,Message 36,Heart,Dairy,None,Box,97.47,3
-37,Anniversary,Red Velvet,Chocolate Cream,Small,3,Whipped Cream,Lemon,Hearts,Pink,Message 37,Square,Nuts,Vegan,Custom Packaging,55.78,1
-38,Anniversary,Lemon,Chocolate Cream,Large,2,Whipped Cream,Lemon,Logo,Pink,Message 38,Rectangle,Dairy,Vegan,Custom Packaging,129.2,2
-39,Birthday,Red Velvet,Strawberry Jam,Large,2,Buttercream,Lemon,Drip Design,Blue,Message 39,Heart,Gluten,Gluten-Free Flour,Custom Packaging,78.73,4
-40,Wedding,Strawberry,Mocha Cream,Small,4,Buttercream,Funfetti,Flowers,Purple,Message 40,Rectangle,None,Sugar-Free,Box,113.09,5
-41,Anniversary,Red Velvet,Strawberry Jam,Large,3,Buttercream,Coffee,Drip Design,Pink,Message 41,Rectangle,None,Vegan,Custom Packaging,117.47,2
-42,Corporate,Funfetti,Cream Cheese,Small,5,Whipped Cream,Vanilla,Classic,Ivory,Message 42,Square,Nuts,Gluten-Free Flour,Custom Packaging,68.47,1
-43,Graduation,Strawberry,Caramel,Medium,3,Buttercream,Vanilla,Classic,Pink,Message 43,Rectangle,Dairy,Gluten-Free Flour,Box,79.7,5
-44,Birthday,Vanilla,Mocha Cream,Medium,5,Buttercream,Lemon,Sprinkles,Gold,Message 44,Square,None,Sugar-Free,Box,46.38,2
-45,Valentine,Funfetti,Lemon Curd,Medium,5,Buttercream,Strawberry,Minimalist,White,Message 45,Square,Dairy,Sugar-Free,Box,148.26,1
-46,Anniversary,Vanilla,Cream Cheese,Large,2,Whipped Cream,Red Velvet,Flowers,Pink,Message 46,Rectangle,Gluten,Sugar-Free,Box,118.2,2
-47,Engagement,Funfetti,Mocha Cream,Medium,5,Cream Cheese,Lemon,Logo,Ivory,Message 47,Round,Gluten,Gluten-Free Flour,Custom Packaging,74.31,2
-48,Graduation,Strawberry,Cream Cheese,Large,5,Cream Cheese,Coffee,Flowers,Ivory,Message 48,Square,Nuts,None,Custom Packaging,24.67,3
-49,Anniversary,Funfetti,Caramel,Small,5,Whipped Cream,Coffee,Drip Design,Purple,Message 49,Round,Gluten,Gluten-Free Flour,Custom Packaging,47.69,3
-50,Corporate,Lemon,Cream Cheese,Large,5,Buttercream,Red Velvet,Minimalist,Black,Message 50,Rectangle,Gluten,Vegan,Box,114.13,4
-51,Wedding,Vanilla,Cream Cheese,Small,2,Whipped Cream,Chocolate,Flowers,Black,Message 51,Square,Nuts,Vegan,Premium Box,97.29,1
-52,Valentine,Vanilla,Chocolate Cream,Large,3,Buttercream,Red Velvet,Minimalist,Ivory,Message 52,Square,Dairy,Sugar-Free,Premium Box,109.33,2
-53,Corporate,Coffee,Vanilla Cream,Medium,1,Whipped Cream,Funfetti,Hearts,Red,Message 53,Rectangle,Gluten,Sugar-Free,Box,118.83,3
-54,Wedding,Funfetti,Vanilla Cream,Medium,3,Cream Cheese,Coffee,Logo,White,Message 54,Rectangle,Dairy,Vegan,Premium Box,101.39,5
-55,Valentine,Funfetti,Cream Cheese,Medium,5,Whipped Cream,Vanilla,Drip Design,Pink,Message 55,Square,None,Gluten-Free Flour,Box,149.85,3
-56,Wedding,Red Velvet,Vanilla Cream,Medium,3,Buttercream,Chocolate,Logo,Black,Message 56,Round,Gluten,None,Box,122.09,1
-57,Anniversary,Red Velvet,Vanilla Cream,Small,1,Whipped Cream,Vanilla,Drip Design,Gold,Message 57,Heart,Nuts,Sugar-Free,Custom Packaging,50.2,2
-58,Valentine,Coffee,Chocolate Cream,Large,5,Buttercream,Funfetti,Minimalist,Black,Message 58,Rectangle,Gluten,Gluten-Free Flour,Box,95.99,1
-59,Birthday,Red Velvet,Cream Cheese,Small,1,Cream Cheese,Red Velvet,Drip Design,Purple,Message 59,Rectangle,Nuts,Sugar-Free,Custom Packaging,112.75,4
-60,Graduation,Red Velvet,Chocolate Cream,Large,4,Cream Cheese,Chocolate,Logo,White,Message 60,Round,Dairy,None,Premium Box,33.67,2
-61,Baby Shower,Strawberry,Lemon Curd,Small,1,Cream Cheese,Lemon,Minimalist,Pink,Message 61,Rectangle,Dairy,Sugar-Free,Box,68.79,3
-62,Anniversary,Red Velvet,Vanilla Cream,Small,4,Buttercream,Vanilla,Drip Design,White,Message 62,Square,Dairy,None,Custom Packaging,132.36,3
-63,Valentine,Lemon,Lemon Curd,Small,1,Buttercream,Coffee,Classic,White,Message 63,Square,Gluten,None,Custom Packaging,117.39,2
-64,Baby Shower,Lemon,Caramel,Large,3,Buttercream,Strawberry,Classic,Gold,Message 64,Round,None,Sugar-Free,Custom Packaging,125.86,3
-65,Wedding,Red Velvet,Mocha Cream,Small,4,Buttercream,Strawberry,Classic,Blue,Message 65,Round,Dairy,Gluten-Free Flour,Premium Box,70.16,2
-66,Valentine,Vanilla,Vanilla Cream,Large,5,Whipped Cream,Chocolate,Flowers,Purple,Message 66,Round,Gluten,Sugar-Free,Custom Packaging,49.82,4
-67,Anniversary,Vanilla,Vanilla Cream,Large,5,Cream Cheese,Lemon,Classic,Ivory,Message 67,Round,None,Gluten-Free Flour,Premium Box,110.52,2
-68,Baby Shower,Red Velvet,Mocha Cream,Small,3,Whipped Cream,Chocolate,Classic,White,Message 68,Heart,Gluten,Sugar-Free,Premium Box,143.57,2
-69,Birthday,Funfetti,Vanilla Cream,Small,4,Whipped Cream,Lemon,Sprinkles,Purple,Message 69,Square,Nuts,None,Custom Packaging,29.17,3
-70,Engagement,Funfetti,Cream Cheese,Large,1,Cream Cheese,Funfetti,Logo,Pink,Message 70,Round,Gluten,Gluten-Free Flour,Box,105.58,1
-71,Corporate,Strawberry,Vanilla Cream,Large,4,Cream Cheese,Lemon,Logo,Ivory,Message 71,Square,None,Vegan,Custom Packaging,100.52,5
-72,Wedding,Red Velvet,Mocha Cream,Medium,2,Buttercream,Coffee,Drip Design,Red,Message 72,Square,Nuts,Vegan,Premium Box,105.46,1
-73,Birthday,Strawberry,Cream Cheese,Large,2,Whipped Cream,Strawberry,Flowers,Gold,Message 73,Square,Nuts,None,Custom Packaging,30.53,3
-74,Baby Shower,Vanilla,Vanilla Cream,Small,4,Cream Cheese,Lemon,Minimalist,Ivory,Message 74,Round,Dairy,None,Custom Packaging,65.14,2
-75,Birthday,Lemon,Mocha Cream,Medium,2,Cream Cheese,Chocolate,Flowers,Gold,Message 75,Square,None,Gluten-Free Flour,Box,65.73,4
-76,Valentine,Chocolate,Strawberry Jam,Small,5,Buttercream,Coffee,Logo,Blue,Message 76,Square,Dairy,Vegan,Premium Box,71.08,3
-77,Corporate,Strawberry,Mocha Cream,Medium,2,Buttercream,Vanilla,Classic,Black,Message 77,Heart,Gluten,Vegan,Custom Packaging,81.42,3
-78,Anniversary,Funfetti,Vanilla Cream,Large,3,Cream Cheese,Coffee,Flowers,Gold,Message 78,Rectangle,Dairy,Gluten-Free Flour,Box,41.7,3
-79,Corporate,Vanilla,Vanilla Cream,Medium,1,Whipped Cream,Coffee,Flowers,Red,Message 79,Rectangle,Dairy,Gluten-Free Flour,Premium Box,76.95,4
-80,Birthday,Red Velvet,Strawberry Jam,Small,5,Cream Cheese,Lemon,Minimalist,Pink,Message 80,Rectangle,Dairy,Sugar-Free,Custom Packaging,62.27,5
-81,Baby Shower,Chocolate,Lemon Curd,Large,3,Whipped Cream,Chocolate,Sprinkles,Red,Message 81,Round,Gluten,Gluten-Free Flour,Premium Box,141.61,2
-82,Baby Shower,Vanilla,Caramel,Large,1,Buttercream,Red Velvet,Sprinkles,Black,Message 82,Rectangle,Gluten,Vegan,Box,56.45,5
-83,Anniversary,Chocolate,Chocolate Cream,Large,4,Whipped Cream,Strawberry,Flowers,Ivory,Message 83,Rectangle,None,Vegan,Custom Packaging,59.86,1
-84,Graduation,Strawberry,Caramel,Medium,2,Buttercream,Lemon,Logo,Ivory,Message 84,Heart,Gluten,Vegan,Box,148.92,1
-85,Corporate,Coffee,Vanilla Cream,Small,4,Cream Cheese,Vanilla,Drip Design,White,Message 85,Rectangle,Nuts,Gluten-Free Flour,Box,76.21,5
-86,Engagement,Vanilla,Caramel,Large,1,Cream Cheese,Coffee,Drip Design,Blue,Message 86,Square,Gluten,Vegan,Custom Packaging,145.71,2
-87,Baby Shower,Red Velvet,Lemon Curd,Small,1,Whipped Cream,Lemon,Logo,Purple,Message 87,Round,Dairy,None,Box,19.54,4
-88,Wedding,Vanilla,Lemon Curd,Large,2,Whipped Cream,Red Velvet,Hearts,Blue,Message 88,Heart,Nuts,Gluten-Free Flour,Premium Box,95.53,1
-89,Birthday,Chocolate,Vanilla Cream,Large,1,Whipped Cream,Red Velvet,Logo,Purple,Message 89,Rectangle,None,None,Custom Packaging,20.99,1
-90,Corporate,Coffee,Cream Cheese,Small,3,Cream Cheese,Red Velvet,Sprinkles,Red,Message 90,Round,Nuts,Sugar-Free,Custom Packaging,90.91,1
-91,Corporate,Red Velvet,Lemon Curd,Large,3,Cream Cheese,Strawberry,Classic,Blue,Message 91,Square,None,Gluten-Free Flour,Custom Packaging,88.77,2
-92,Baby Shower,Coffee,Cream Cheese,Large,1,Cream Cheese,Coffee,Flowers,Pink,Message 92,Heart,Gluten,Vegan,Box,140.53,3
-93,Anniversary,Funfetti,Caramel,Large,4,Cream Cheese,Vanilla,Logo,Red,Message 93,Rectangle,Dairy,Vegan,Premium Box,109.36,2
-94,Valentine,Funfetti,Chocolate Cream,Medium,5,Buttercream,Chocolate,Hearts,Red,Message 94,Heart,Dairy,None,Premium Box,114.2,5
-95,Anniversary,Strawberry,Chocolate Cream,Large,1,Cream Cheese,Coffee,Drip Design,Black,Message 95,Rectangle,Nuts,None,Custom Packaging,78.32,2
-96,Valentine,Coffee,Vanilla Cream,Medium,3,Buttercream,Vanilla,Sprinkles,Blue,Message 96,Square,None,Gluten-Free Flour,Premium Box,57.65,5
-97,Anniversary,Strawberry,Cream Cheese,Small,3,Cream Cheese,Red Velvet,Hearts,Black,Message 97,Rectangle,None,Vegan,Custom Packaging,87.84,1
-98,Baby Shower,Coffee,Chocolate Cream,Medium,4,Cream Cheese,Vanilla,Sprinkles,Ivory,Message 98,Rectangle,Dairy,None,Premium Box,136.86,3
-99,Valentine,Funfetti,Caramel,Small,1,Cream Cheese,Lemon,Sprinkles,Purple,Message 99,Heart,Dairy,Sugar-Free,Custom Packaging,26.42,5
-100,Corporate,Funfetti,Chocolate Cream,Large,3,Whipped Cream,Lemon,Classic,Red,Message 100,Square,Gluten,Vegan,Box,60.44,1
-101,Engagement,Funfetti,Caramel,Large,3,Cream Cheese,Funfetti,Drip Design,Black,Message 101,Round,None,Vegan,Custom Packaging,60.35,5
-102,Anniversary,Red Velvet,Caramel,Medium,2,Whipped Cream,Vanilla,Hearts,Red,Message 102,Heart,Dairy,Sugar-Free,Custom Packaging,109.31,1
-103,Birthday,Red Velvet,Lemon Curd,Large,4,Whipped Cream,Vanilla,Logo,Blue,Message 103,Heart,Gluten,Vegan,Custom Packaging,145.15,4
-104,Valentine,Funfetti,Caramel,Medium,5,Whipped Cream,Vanilla,Logo,Ivory,Message 104,Heart,Nuts,Sugar-Free,Custom Packaging,93.76,3
-105,Wedding,Vanilla,Caramel,Small,1,Cream Cheese,Lemon,Drip Design,Black,Message 105,Round,Dairy,Gluten-Free Flour,Custom Packaging,91.78,1
-106,Anniversary,Chocolate,Strawberry Jam,Large,3,Cream Cheese,Lemon,Flowers,Purple,Message 106,Heart,Dairy,Sugar-Free,Custom Packaging,105.09,2
-107,Anniversary,Strawberry,Cream Cheese,Large,3,Whipped Cream,Coffee,Classic,Pink,Message 107,Square,Gluten,Vegan,Premium Box,62.32,4
-108,Valentine,Coffee,Cream Cheese,Large,2,Whipped Cream,Strawberry,Hearts,White,Message 108,Round,Dairy,Sugar-Free,Custom Packaging,97.4,5
-109,Baby Shower,Funfetti,Mocha Cream,Medium,1,Buttercream,Funfetti,Logo,Black,Message 109,Square,Dairy,Sugar-Free,Custom Packaging,54.45,1
-110,Birthday,Chocolate,Strawberry Jam,Medium,5,Whipped Cream,Chocolate,Drip Design,White,Message 110,Rectangle,Nuts,None,Custom Packaging,146.62,1
-111,Baby Shower,Strawberry,Lemon Curd,Medium,3,Buttercream,Lemon,Logo,Pink,Message 111,Square,Nuts,Sugar-Free,Premium Box,56.56,3
-112,Graduation,Vanilla,Strawberry Jam,Medium,4,Buttercream,Chocolate,Minimalist,Black,Message 112,Square,Nuts,Vegan,Premium Box,119.97,1
-113,Graduation,Coffee,Strawberry Jam,Large,3,Cream Cheese,Coffee,Sprinkles,Gold,Message 113,Square,None,None,Box,32.61,4
-114,Anniversary,Funfetti,Chocolate Cream,Small,4,Whipped Cream,Lemon,Logo,Ivory,Message 114,Rectangle,Nuts,None,Custom Packaging,113.15,3
-115,Graduation,Vanilla,Caramel,Medium,5,Buttercream,Funfetti,Flowers,White,Message 115,Round,Nuts,Gluten-Free Flour,Premium Box,87.31,5
-116,Engagement,Vanilla,Caramel,Medium,2,Whipped Cream,Vanilla,Logo,Pink,Message 116,Square,Nuts,Vegan,Custom Packaging,25.29,2
-117,Birthday,Funfetti,Lemon Curd,Large,1,Whipped Cream,Lemon,Minimalist,White,Message 117,Square,None,Sugar-Free,Custom Packaging,147.99,5
-118,Birthday,Vanilla,Cream Cheese,Small,1,Buttercream,Strawberry,Minimalist,Blue,Message 118,Heart,None,Vegan,Custom Packaging,18.67,1
-119,Anniversary,Lemon,Lemon Curd,Large,5,Whipped Cream,Chocolate,Classic,Red,Message 119,Round,Nuts,Sugar-Free,Premium Box,31.75,3
-120,Valentine,Coffee,Chocolate Cream,Medium,4,Cream Cheese,Strawberry,Drip Design,Gold,Message 120,Round,None,Vegan,Box,139.8,1
-121,Anniversary,Coffee,Mocha Cream,Large,1,Buttercream,Coffee,Flowers,Purple,Message 121,Rectangle,Dairy,Gluten-Free Flour,Premium Box,52.83,1
-122,Graduation,Strawberry,Cream Cheese,Medium,4,Cream Cheese,Strawberry,Hearts,White,Message 122,Heart,None,Vegan,Custom Packaging,53.07,1
-123,Engagement,Strawberry,Mocha Cream,Small,3,Whipped Cream,Funfetti,Sprinkles,Black,Message 123,Round,Dairy,Sugar-Free,Custom Packaging,31.59,4
-124,Valentine,Vanilla,Caramel,Large,2,Cream Cheese,Red Velvet,Hearts,Purple,Message 124,Rectangle,None,Gluten-Free Flour,Premium Box,63.83,5
-125,Engagement,Lemon,Mocha Cream,Small,5,Buttercream,Red Velvet,Sprinkles,Red,Message 125,Heart,Dairy,None,Custom Packaging,54.03,2
-126,Baby Shower,Red Velvet,Chocolate Cream,Small,1,Cream Cheese,Red Velvet,Hearts,Black,Message 126,Heart,None,Vegan,Box,102.92,5
-127,Corporate,Funfetti,Caramel,Small,2,Cream Cheese,Coffee,Flowers,White,Message 127,Square,Gluten,Sugar-Free,Premium Box,145.04,4
-128,Anniversary,Coffee,Caramel,Small,5,Cream Cheese,Vanilla,Hearts,Blue,Message 128,Rectangle,Dairy,Gluten-Free Flour,Custom Packaging,23.3,1
-129,Valentine,Funfetti,Chocolate Cream,Medium,1,Whipped Cream,Vanilla,Flowers,Black,Message 129,Square,Nuts,Gluten-Free Flour,Premium Box,17.22,5
-130,Anniversary,Strawberry,Cream Cheese,Small,4,Cream Cheese,Chocolate,Drip Design,Pink,Message 130,Rectangle,Dairy,None,Premium Box,30.56,3
-131,Engagement,Funfetti,Cream Cheese,Medium,1,Buttercream,Coffee,Logo,Gold,Message 131,Rectangle,Nuts,Vegan,Box,47.2,3
-132,Engagement,Chocolate,Cream Cheese,Medium,3,Cream Cheese,Vanilla,Sprinkles,Gold,Message 132,Heart,Gluten,Sugar-Free,Custom Packaging,142.96,2
-133,Birthday,Funfetti,Cream Cheese,Small,5,Whipped Cream,Red Velvet,Flowers,White,Message 133,Heart,Gluten,Vegan,Box,60.4,4
-134,Wedding,Coffee,Mocha Cream,Medium,4,Buttercream,Lemon,Drip Design,Black,Message 134,Rectangle,Gluten,Sugar-Free,Box,118.86,1
-135,Graduation,Red Velvet,Vanilla Cream,Large,3,Whipped Cream,Coffee,Classic,Blue,Message 135,Rectangle,Nuts,None,Premium Box,70.59,4
-136,Valentine,Red Velvet,Vanilla Cream,Large,3,Whipped Cream,Funfetti,Flowers,Black,Message 136,Round,Nuts,Sugar-Free,Premium Box,28.65,1
-137,Corporate,Vanilla,Lemon Curd,Small,3,Whipped Cream,Strawberry,Flowers,White,Message 137,Rectangle,Gluten,Gluten-Free Flour,Premium Box,44.18,4
-138,Anniversary,Vanilla,Chocolate Cream,Small,4,Whipped Cream,Coffee,Flowers,Blue,Message 138,Round,Gluten,None,Premium Box,140.65,1
-139,Birthday,Chocolate,Chocolate Cream,Medium,4,Cream Cheese,Funfetti,Logo,Ivory,Message 139,Rectangle,Gluten,None,Box,62.92,5
-140,Wedding,Chocolate,Mocha Cream,Large,5,Whipped Cream,Strawberry,Minimalist,Blue,Message 140,Round,Nuts,None,Box,45.1,1
-141,Engagement,Vanilla,Lemon Curd,Small,2,Buttercream,Funfetti,Classic,Red,Message 141,Rectangle,None,Vegan,Custom Packaging,78.45,3
-142,Anniversary,Red Velvet,Mocha Cream,Large,4,Cream Cheese,Lemon,Flowers,White,Message 142,Round,Nuts,Vegan,Premium Box,50.94,4
-143,Birthday,Vanilla,Cream Cheese,Large,5,Buttercream,Vanilla,Drip Design,Black,Message 143,Square,Dairy,None,Premium Box,115.46,5
-144,Corporate,Red Velvet,Caramel,Small,4,Cream Cheese,Funfetti,Classic,Gold,Message 144,Rectangle,Nuts,None,Custom Packaging,41.01,5
-145,Wedding,Funfetti,Vanilla Cream,Small,1,Cream Cheese,Coffee,Flowers,Pink,Message 145,Round,Nuts,None,Premium Box,56.87,2
-146,Wedding,Vanilla,Chocolate Cream,Medium,1,Cream Cheese,Vanilla,Minimalist,Pink,Message 146,Square,Nuts,Vegan,Box,82.0,3
-147,Corporate,Lemon,Chocolate Cream,Medium,2,Buttercream,Vanilla,Flowers,Purple,Message 147,Rectangle,None,Gluten-Free Flour,Custom Packaging,80.11,5
-148,Birthday,Funfetti,Vanilla Cream,Large,2,Cream Cheese,Strawberry,Flowers,Pink,Message 148,Square,Dairy,Vegan,Box,146.34,2
-149,Wedding,Red Velvet,Chocolate Cream,Medium,2,Cream Cheese,Lemon,Logo,Pink,Message 149,Rectangle,None,Gluten-Free Flour,Premium Box,92.11,2
-150,Valentine,Coffee,Lemon Curd,Small,2,Whipped Cream,Coffee,Drip Design,Pink,Message 150,Round,Nuts,Vegan,Custom Packaging,148.46,2
-151,Baby Shower,Lemon,Mocha Cream,Small,5,Cream Cheese,Funfetti,Sprinkles,White,Message 151,Heart,Gluten,None,Custom Packaging,115.2,2
-152,Baby Shower,Coffee,Chocolate Cream,Small,5,Cream Cheese,Funfetti,Hearts,White,Message 152,Heart,None,Gluten-Free Flour,Custom Packaging,21.75,3
-153,Wedding,Red Velvet,Strawberry Jam,Medium,5,Whipped Cream,Strawberry,Drip Design,Gold,Message 153,Heart,Dairy,Vegan,Box,145.8,5
-154,Baby Shower,Funfetti,Caramel,Small,4,Whipped Cream,Lemon,Classic,Blue,Message 154,Rectangle,None,Sugar-Free,Custom Packaging,138.92,3
-155,Corporate,Lemon,Strawberry Jam,Medium,5,Buttercream,Coffee,Classic,Gold,Message 155,Heart,None,Vegan,Custom Packaging,118.41,2
-156,Engagement,Lemon,Mocha Cream,Small,3,Whipped Cream,Chocolate,Drip Design,Blue,Message 156,Round,Dairy,None,Custom Packaging,26.01,3
-157,Valentine,Red Velvet,Chocolate Cream,Medium,4,Buttercream,Red Velvet,Classic,Ivory,Message 157,Square,None,None,Custom Packaging,82.86,2
-158,Anniversary,Funfetti,Strawberry Jam,Medium,1,Whipped Cream,Strawberry,Flowers,Black,Message 158,Rectangle,Nuts,Vegan,Custom Packaging,51.32,3
-159,Valentine,Lemon,Mocha Cream,Medium,5,Buttercream,Chocolate,Hearts,White,Message 159,Round,Gluten,None,Custom Packaging,122.5,1
-160,Valentine,Lemon,Cream Cheese,Large,4,Buttercream,Strawberry,Drip Design,Ivory,Message 160,Heart,Gluten,Sugar-Free,Custom Packaging,57.14,2
-161,Anniversary,Red Velvet,Vanilla Cream,Small,3,Cream Cheese,Red Velvet,Flowers,White,Message 161,Square,None,Sugar-Free,Premium Box,55.94,3
-162,Wedding,Chocolate,Chocolate Cream,Large,5,Cream Cheese,Chocolate,Sprinkles,Gold,Message 162,Square,Gluten,None,Box,104.68,3
-163,Corporate,Chocolate,Strawberry Jam,Large,1,Cream Cheese,Funfetti,Minimalist,Ivory,Message 163,Heart,Gluten,Gluten-Free Flour,Premium Box,67.38,5
-164,Corporate,Red Velvet,Chocolate Cream,Medium,3,Buttercream,Chocolate,Logo,Gold,Message 164,Square,Gluten,Sugar-Free,Box,19.57,4
-165,Graduation,Lemon,Chocolate Cream,Large,1,Buttercream,Strawberry,Logo,White,Message 165,Round,Dairy,Vegan,Premium Box,85.16,4
-166,Graduation,Funfetti,Mocha Cream,Large,2,Cream Cheese,Funfetti,Hearts,Ivory,Message 166,Heart,Nuts,Sugar-Free,Custom Packaging,66.52,5
-167,Corporate,Strawberry,Lemon Curd,Small,1,Buttercream,Vanilla,Flowers,Pink,Message 167,Rectangle,Dairy,Sugar-Free,Box,136.99,4
-168,Baby Shower,Strawberry,Chocolate Cream,Medium,1,Buttercream,Red Velvet,Drip Design,Black,Message 168,Heart,None,Sugar-Free,Custom Packaging,83.19,4
-169,Baby Shower,Funfetti,Vanilla Cream,Small,5,Buttercream,Lemon,Sprinkles,Red,Message 169,Square,Nuts,None,Premium Box,23.53,3
-170,Corporate,Funfetti,Lemon Curd,Medium,1,Whipped Cream,Red Velvet,Hearts,Black,Message 170,Heart,Nuts,Gluten-Free Flour,Box,53.94,3
-171,Corporate,Lemon,Lemon Curd,Small,5,Cream Cheese,Funfetti,Minimalist,Ivory,Message 171,Heart,Nuts,Gluten-Free Flour,Custom Packaging,32.49,2
-172,Engagement,Funfetti,Strawberry Jam,Medium,4,Cream Cheese,Strawberry,Flowers,Red,Message 172,Heart,Gluten,Gluten-Free Flour,Custom Packaging,46.85,2
-173,Engagement,Funfetti,Mocha Cream,Small,4,Cream Cheese,Coffee,Classic,Pink,Message 173,Round,Gluten,Sugar-Free,Premium Box,46.12,5
-174,Engagement,Lemon,Vanilla Cream,Small,1,Buttercream,Red Velvet,Classic,Pink,Message 174,Rectangle,Dairy,Gluten-Free Flour,Premium Box,71.72,2
-175,Corporate,Coffee,Vanilla Cream,Small,1,Whipped Cream,Lemon,Classic,Blue,Message 175,Rectangle,Nuts,Sugar-Free,Custom Packaging,44.69,4
-176,Engagement,Lemon,Vanilla Cream,Medium,4,Buttercream,Lemon,Sprinkles,Blue,Message 176,Square,Dairy,Sugar-Free,Custom Packaging,124.64,3
-177,Baby Shower,Strawberry,Strawberry Jam,Large,5,Cream Cheese,Chocolate,Drip Design,Purple,Message 177,Square,Dairy,Sugar-Free,Box,102.09,3
-178,Wedding,Red Velvet,Cream Cheese,Small,2,Buttercream,Lemon,Minimalist,Purple,Message 178,Square,None,Vegan,Custom Packaging,46.57,4
-179,Baby Shower,Strawberry,Strawberry Jam,Large,4,Buttercream,Strawberry,Classic,Purple,Message 179,Round,Dairy,None,Box,27.69,5
-180,Graduation,Lemon,Chocolate Cream,Large,4,Buttercream,Strawberry,Flowers,Gold,Message 180,Rectangle,Nuts,Sugar-Free,Premium Box,121.82,5
-181,Graduation,Funfetti,Strawberry Jam,Large,5,Cream Cheese,Chocolate,Minimalist,Pink,Message 181,Square,Nuts,Gluten-Free Flour,Box,52.02,3
-182,Wedding,Red Velvet,Strawberry Jam,Medium,3,Cream Cheese,Chocolate,Flowers,Red,Message 182,Round,None,Vegan,Premium Box,44.83,4
-183,Graduation,Funfetti,Lemon Curd,Medium,4,Buttercream,Red Velvet,Logo,Purple,Message 183,Square,None,Sugar-Free,Premium Box,103.76,1
-184,Corporate,Coffee,Vanilla Cream,Medium,5,Cream Cheese,Lemon,Sprinkles,Blue,Message 184,Square,None,Gluten-Free Flour,Box,107.76,3
-185,Corporate,Red Velvet,Caramel,Medium,5,Whipped Cream,Chocolate,Logo,Pink,Message 185,Round,Gluten,Vegan,Custom Packaging,139.62,5
-186,Baby Shower,Funfetti,Strawberry Jam,Large,5,Whipped Cream,Strawberry,Classic,Black,Message 186,Round,Dairy,Gluten-Free Flour,Custom Packaging,41.15,2
-187,Baby Shower,Chocolate,Chocolate Cream,Medium,3,Buttercream,Coffee,Hearts,Red,Message 187,Rectangle,Dairy,Vegan,Custom Packaging,44.45,3
-188,Baby Shower,Red Velvet,Vanilla Cream,Medium,1,Cream Cheese,Funfetti,Drip Design,Gold,Message 188,Heart,Nuts,Sugar-Free,Custom Packaging,45.1,4
-189,Engagement,Lemon,Chocolate Cream,Large,3,Whipped Cream,Funfetti,Flowers,White,Message 189,Rectangle,Dairy,Sugar-Free,Box,100.65,1
-190,Corporate,Red Velvet,Caramel,Medium,5,Cream Cheese,Lemon,Flowers,Purple,Message 190,Heart,Gluten,Vegan,Box,118.48,2
-191,Wedding,Funfetti,Strawberry Jam,Large,4,Buttercream,Vanilla,Sprinkles,Ivory,Message 191,Rectangle,Gluten,Sugar-Free,Custom Packaging,28.84,2
-192,Wedding,Strawberry,Lemon Curd,Small,4,Whipped Cream,Strawberry,Drip Design,Pink,Message 192,Heart,Dairy,Sugar-Free,Box,39.53,2
-193,Baby Shower,Chocolate,Caramel,Medium,4,Cream Cheese,Funfetti,Minimalist,Red,Message 193,Round,Gluten,None,Box,51.42,5
-194,Engagement,Strawberry,Vanilla Cream,Large,5,Whipped Cream,Funfetti,Classic,White,Message 194,Heart,Gluten,Gluten-Free Flour,Premium Box,45.32,2
-195,Birthday,Coffee,Caramel,Medium,5,Cream Cheese,Lemon,Drip Design,Red,Message 195,Rectangle,None,None,Custom Packaging,65.95,2
-196,Engagement,Lemon,Cream Cheese,Medium,3,Whipped Cream,Coffee,Classic,White,Message 196,Round,Nuts,Vegan,Custom Packaging,67.21,1
-197,Wedding,Red Velvet,Chocolate Cream,Large,3,Buttercream,Red Velvet,Minimalist,Red,Message 197,Square,Dairy,Vegan,Custom Packaging,128.18,1
-198,Anniversary,Vanilla,Cream Cheese,Large,5,Buttercream,Chocolate,Flowers,Purple,Message 198,Heart,Dairy,Sugar-Free,Custom Packaging,67.36,1
-199,Valentine,Strawberry,Mocha Cream,Large,5,Whipped Cream,Vanilla,Minimalist,Gold,Message 199,Square,Dairy,None,Box,19.56,3
-200,Wedding,Lemon,Cream Cheese,Large,4,Buttercream,Coffee,Sprinkles,Purple,Message 200,Rectangle,Dairy,Vegan,Premium Box,122.35,3
+"id","Type","Flavor","Filling","Size","Layers","Frosting Type","Frosting Flavor","Decoration Type","Decoration Color","Custom Message","Shape","Allergies","Special Ingredients","Packaging Type","Price","Quantity"
+"0","Sponge","Vanilla","Cream","20","2","Buttercream","Vanilla","Sprinkles","Multi-color","Happy Birthday","Round","Nut-Free","Organic Ingredients","Standard Box","50","1"
+"1","Chocolate","Chocolate","Ganache","25","3","Fondant","Chocolate","Fondant Figures","Red","Congrats","Square","Gluten-Free","Vegan","Luxury Box with Ribbon","75","2"
+"2","Fruit","Lemon","Jam","15","1","Whipped Cream","Lemon","Edible Flowers","Yellow","","Heart-Shaped","None","Sugar-Free","Standard Box","40","1"
+"3","Red Velvet","Red Velvet","Cream Cheese","30","4","Buttercream","Vanilla","Edible Glitter","Gold","Happy Anniversary","Round","Dairy-Free","Vegan","Luxury Box","90","1"
+"4","Sponge","Strawberry","Cream","20","3","Buttercream","Strawberry","Sprinkles","Pink","Happy Baby Shower","Round","None","Organic","Standard Box with Ribbon","60","1"
+"5","Sponge","Red Velvet","Cream Cheese","25","2","Buttercream","Chocolate","Edible Beads","Silver","Congratulations","Square","Nut-Free","Organic Ingredients","Standard Box","65","1"
+"6","Chocolate","Chocolate","Cream","30","3","Fondant","Chocolate","Custom Shapes","Brown","Happy Graduation","Round","Gluten-Free","None","Luxury Box","85","2"
+"7","Fruit","Pineapple","Fruit","20","2","Whipped Cream","Pineapple","Fruit Slices","Yellow","","Heart-Shaped","None","None","Standard Box with Ribbon","55","1"
+"8","Sponge","Vanilla","Jam","15","1","Buttercream","Vanilla","Edible Letters","White","Just Married","Round","None","None","Standard Box","45","1"
+"9","Chocolate","Dark Chocolate","Ganache","25","4","Fondant","Chocolate","Gold Flakes","Gold","Happy 50th Anniversary","Square","Nut-Free","Sugar-Free","Luxury Box with Ribbon","100","1"
+"10","Fruit","Vanilla","Jam","20","2","Whipped Cream","Chocolate","Fruit Slices","White","Best Software Engineer","Square","None","Organic Ingredients","Luxury Box with Ribbon","165","10"
+"11","Birthday","Vanilla","Strawberry Jam","8","2","Buttercream","Vanilla","Flowers","Pink","Happy Birthday!","Round","None","Edible Gold Dust","Box","10","1"
+"12","Birthday","Vanilla","Strawberry Jam","8","2","Buttercream","Vanilla","Flowers","Pink","Happy Birthday!","Round","None","Edible Gold Dust","Box","20","3"
+"13","Red Velvet","Vanilla","Cream","30","2","Buttercream","Chocolate","Edible Glitter","Gold","Congratulations","Square","Nut-Free","Organic","Luxury Box","153","4"
+"14","Red Velvet","Lemon","Jam","8","1","Whipped Cream","Caramel","Gold Flakes","Multi-color","Happy Birthday","Heart-Shaped","Dairy-Free","Organic","Standard Box with Ribbon","72","3"
+"15","Red Velvet","Pineapple","Ganache","15","1","Buttercream","Coffee","Fondant Figures","Yellow","Congratulations","Heart-Shaped","Gluten-Free","None","Luxury Box","32","5"
+"16","Birthday","Red Velvet","Mousse","25","2","Fondant","Pineapple","Fruit Slices","White","Thank You","Heart-Shaped","Dairy-Free","Organic","Luxury Box with Ribbon","147","1"
+"17","Sponge","Strawberry","Jam","15","1","Ganache","Coffee","Sprinkles","White","Happy Birthday","Rectangle","None","None","Standard Box","38","1"
+"18","Birthday","Red Velvet","Ganache","8","2","Ganache","Caramel","Sprinkles","Blue","Congratulations","Square","Nut-Free","Organic","Standard Box","53","1"
+"19","Coffee","Pineapple","Ganache","15","2","Ganache","Lemon","Fruit Slices","Pink","Happy Birthday","Oval","None","Organic","Standard Box","198","2"
+"20","Chocolate","Red Velvet","Cream Cheese","15","2","Ganache","Strawberry","Fondant Figures","Yellow","Thank You","Rectangle","Gluten-Free","Organic","Luxury Box","186","5"
+"21","Red Velvet","Lemon","Ganache","20","2","Buttercream","Lemon","Fruit Slices","Multi-color","Best Wishes","Round","Dairy-Free","Organic","Luxury Box","178","2"
+"22","Birthday","Red Velvet","Ganache","15","3","Fondant","Caramel","Fondant Figures","Purple","Best Wishes","Square","Dairy-Free","Organic","Standard Box with Ribbon","168","5"
+"23","Marble","Lemon","Ganache","15","4","Buttercream","Lemon","Edible Glitter","Yellow","Just Married","Oval","Nut-Free","None","Standard Box","157","2"
+"24","Sponge","Strawberry","Cream Cheese","30","4","Ganache","Lemon","Edible Flowers","Gold","Happy Anniversary","Rectangle","Gluten-Free","Organic","Standard Box with Ribbon","97","1"
+"25","Marble","Pineapple","Fruit","8","1","Ganache","Chocolate","Gold Flakes","Red","Happy Anniversary","Square","Dairy-Free","Organic","Luxury Box with Ribbon","45","1"
+"26","Fruit","Red Velvet","Cream Cheese","25","2","Ganache","Chocolate","Edible Glitter","Silver","Just Married","Oval","Gluten-Free","None","Standard Box","160","5"
+"27","Coffee","Pineapple","Mousse","15","1","Ganache","Caramel","Edible Glitter","Yellow","Happy Anniversary","Rectangle","Dairy-Free","Organic","Standard Box","138","4"
+"28","Red Velvet","Vanilla","Cream","30","4","Whipped Cream","Red Velvet","Gold Flakes","Blue","Happy Anniversary","Round","Nut-Free","None","Luxury Box","38","4"
+"29","Marble","Vanilla","Jam","15","1","Buttercream","Pineapple","Sprinkles","Purple","Happy Anniversary","Oval","Dairy-Free","None","Luxury Box","62","3"
+"30","Marble","Chocolate","Ganache","25","3","Ganache","Caramel","Gold Flakes","Yellow","Just Married","Heart-Shaped","Nut-Free","None","Luxury Box with Ribbon","67","3"
+"31","Fruit","Caramel","Fruit","25","1","Ganache","Vanilla","Edible Flowers","Pink","Best Wishes","Square","Dairy-Free","None","Standard Box","98","5"
+"32","Chocolate","Lemon","Jam","30","2","Buttercream","Strawberry","Fruit Slices","Red","Happy Birthday","Oval","Nut-Free","Organic","Standard Box with Ribbon","101","5"
+"33","Fruit","Vanilla","Cream Cheese","30","3","Whipped Cream","Pineapple","Fruit Slices","White","Congratulations","Round","None","Organic","Standard Box with Ribbon","36","2"
+"34","Marble","Vanilla","Cream","8","1","Whipped Cream","Red Velvet","Gold Flakes","Purple","Congratulations","Oval","None","Organic","Standard Box","125","1"
+"35","Sponge","Vanilla","Cream","8","3","Whipped Cream","Strawberry","Gold Flakes","Blue","Best Wishes","Heart-Shaped","Gluten-Free","Organic","Standard Box","47","2"
+"36","Marble","Red Velvet","Jam","30","1","Fondant","Caramel","Edible Glitter","Blue","Thank You","Square","None","Organic","Luxury Box with Ribbon","171","4"
+"37","Birthday","Pineapple","Cream Cheese","8","4","Fondant","Strawberry","Fondant Figures","Yellow","Happy Anniversary","Rectangle","Nut-Free","None","Luxury Box with Ribbon","172","5"
+"38","Carrot","Red Velvet","Cream Cheese","30","4","Whipped Cream","Red Velvet","Fruit Slices","Yellow","Congratulations","Rectangle","Gluten-Free","None","Standard Box","103","3"
+"39","Sponge","Strawberry","Mousse","15","2","Fondant","Red Velvet","Fondant Figures","Red","Happy Anniversary","Oval","Dairy-Free","Organic","Standard Box with Ribbon","60","3"
+"40","Coffee","Coffee","Jam","8","3","Whipped Cream","Pineapple","Fruit Slices","Yellow","Happy Birthday","Round","Nut-Free","None","Luxury Box","62","5"
+"41","Birthday","Chocolate","Mousse","25","4","Buttercream","Red Velvet","Edible Glitter","Gold","Happy Birthday","Rectangle","None","Organic","Standard Box with Ribbon","175","5"
+"42","Birthday","Coffee","Fruit","25","1","Ganache","Strawberry","Fruit Slices","Silver","Congratulations","Rectangle","Gluten-Free","Organic","Luxury Box with Ribbon","69","4"
+"43","Birthday","Lemon","Cream Cheese","15","1","Whipped Cream","Vanilla","Edible Flowers","Multi-color","Congratulations","Round","None","None","Standard Box with Ribbon","174","1"
+"44","Coffee","Caramel","Ganache","30","1","Ganache","Strawberry","Sprinkles","Blue","Best Wishes","Heart-Shaped","Dairy-Free","Organic","Standard Box with Ribbon","160","1"
+"45","Sponge","Vanilla","Cream","8","1","Whipped Cream","Caramel","Edible Glitter","Blue","Thank You","Heart-Shaped","Nut-Free","Organic","Luxury Box with Ribbon","79","3"
+"46","Carrot","Red Velvet","Custard","8","1","Whipped Cream","Red Velvet","Fondant Figures","Pink","Thank You","Round","Gluten-Free","None","Luxury Box with Ribbon","141","3"
+"47","Coffee","Coffee","Cream","8","2","Fondant","Strawberry","Edible Flowers","Silver","Happy Anniversary","Oval","Dairy-Free","None","Luxury Box with Ribbon","87","2"
+"48","Fruit","Lemon","Cream","15","3","Fondant","Red Velvet","Edible Flowers","Multi-color","Thank You","Round","Nut-Free","None","Luxury Box","66","1"
+"49","Fruit","Lemon","Cream","8","1","Whipped Cream","Strawberry","Fruit Slices","Blue","Thank You","Rectangle","Gluten-Free","Organic","Standard Box with Ribbon","102","3"
+"50","Fruit","Lemon","Mousse","25","4","Whipped Cream","Caramel","Sprinkles","Gold","Just Married","Oval","None","Organic","Luxury Box with Ribbon","47","1"
+"51","Sponge","Vanilla","Cream Cheese","30","4","Fondant","Lemon","Fruit Slices","White","Happy Birthday","Square","Gluten-Free","Organic","Standard Box","174","4"
+"52","Marble","Vanilla","Jam","8","2","Ganache","Pineapple","Sprinkles","White","Happy Anniversary","Square","Nut-Free","None","Standard Box","71","3"
+"53","Fruit","Coffee","Fruit","15","3","Buttercream","Pineapple","Fruit Slices","Silver","Thank You","Square","Nut-Free","None","Standard Box with Ribbon","147","4"
+"54","Marble","Lemon","Fruit","30","2","Buttercream","Pineapple","Sprinkles","Purple","Congratulations","Square","None","Organic","Luxury Box with Ribbon","136","3"
+"55","Chocolate","Pineapple","Cream Cheese","25","4","Buttercream","Strawberry","Fruit Slices","Silver","Congratulations","Heart-Shaped","None","None","Luxury Box","180","4"
+"56","Chocolate","Vanilla","Ganache","15","3","Buttercream","Red Velvet","Fruit Slices","Pink","Thank You","Round","Nut-Free","None","Standard Box","156","3"
+"57","Marble","Coffee","Custard","30","3","Ganache","Coffee","Edible Flowers","Multi-color","Thank You","Rectangle","Gluten-Free","None","Luxury Box","102","1"
+"58","Fruit","Vanilla","Cream Cheese","8","4","Buttercream","Vanilla","Edible Glitter","White","Congratulations","Rectangle","None","None","Standard Box with Ribbon","109","2"
+"59","Fruit","Coffee","Custard","30","1","Ganache","Caramel","Fondant Figures","Gold","Best Wishes","Round","None","Organic","Standard Box with Ribbon","95","5"
+"60","Marble","Vanilla","Cream Cheese","8","1","Buttercream","Lemon","Fondant Figures","Purple","Happy Birthday","Heart-Shaped","None","None","Standard Box","61","3"
+"61","Sponge","Coffee","Custard","15","2","Whipped Cream","Coffee","Fondant Figures","Purple","Best Wishes","Heart-Shaped","None","Organic","Standard Box with Ribbon","120","5"
+"62","Coffee","Caramel","Cream Cheese","15","2","Whipped Cream","Lemon","Fruit Slices","Pink","Happy Birthday","Round","Dairy-Free","None","Luxury Box with Ribbon","82","3"
+"63","Fruit","Lemon","Mousse","8","1","Whipped Cream","Red Velvet","Fruit Slices","Red","Happy Birthday","Rectangle","Nut-Free","None","Luxury Box with Ribbon","186","4"
+"64","Birthday","Lemon","Cream Cheese","8","1","Fondant","Vanilla","Edible Glitter","Brown","Thank You","Square","Gluten-Free","Organic","Luxury Box with Ribbon","99","4"
+"65","Coffee","Strawberry","Ganache","15","2","Ganache","Vanilla","Fondant Figures","Multi-color","Congratulations","Square","None","Organic","Luxury Box with Ribbon","32","5"
+"66","Red Velvet","Red Velvet","Cream","8","3","Whipped Cream","Chocolate","Fruit Slices","White","Thank You","Round","None","Organic","Luxury Box with Ribbon","61","3"
+"67","Carrot","Caramel","Cream","15","4","Ganache","Chocolate","Gold Flakes","Pink","Just Married","Round","Nut-Free","Organic","Luxury Box with Ribbon","127","3"
+"68","Coffee","Strawberry","Ganache","25","1","Ganache","Pineapple","Gold Flakes","Brown","Happy Anniversary","Rectangle","Nut-Free","None","Luxury Box","80","3"
+"69","Fruit","Caramel","Ganache","8","3","Whipped Cream","Coffee","Gold Flakes","Gold","Best Wishes","Heart-Shaped","None","None","Luxury Box","170","2"
+"70","Chocolate","Pineapple","Fruit","30","1","Ganache","Caramel","Gold Flakes","Purple","Just Married","Square","None","None","Standard Box with Ribbon","36","4"
+"71","Chocolate","Chocolate","Mousse","20","1","Whipped Cream","Coffee","Edible Flowers","Brown","Happy Birthday","Rectangle","None","None","Standard Box with Ribbon","108","5"
+"72","Marble","Coffee","Custard","15","3","Ganache","Red Velvet","Gold Flakes","Gold","Happy Anniversary","Oval","Dairy-Free","Organic","Standard Box with Ribbon","65","5"
+"73","Sponge","Strawberry","Custard","30","1","Fondant","Caramel","Edible Glitter","Blue","Best Wishes","Oval","Nut-Free","Organic","Luxury Box with Ribbon","184","2"
+"74","Fruit","Coffee","Cream Cheese","8","4","Ganache","Chocolate","Gold Flakes","White","Happy Birthday","Rectangle","Gluten-Free","Organic","Luxury Box with Ribbon","180","5"
+"75","Birthday","Vanilla","Cream","30","1","Whipped Cream","Coffee","Sprinkles","Gold","Happy Birthday","Heart-Shaped","Gluten-Free","Organic","Standard Box","62","4"
+"76","Marble","Coffee","Custard","8","3","Fondant","Caramel","Edible Flowers","Purple","Happy Anniversary","Oval","Gluten-Free","Organic","Standard Box with Ribbon","51","4"
+"77","Carrot","Pineapple","Cream","30","2","Whipped Cream","Chocolate","Sprinkles","Purple","Thank You","Round","None","Organic","Standard Box with Ribbon","59","5"
+"78","Sponge","Strawberry","Cream","8","1","Ganache","Caramel","Sprinkles","Red","Thank You","Square","Gluten-Free","Organic","Standard Box with Ribbon","68","5"
+"79","Red Velvet","Chocolate","Mousse","8","1","Ganache","Coffee","Sprinkles","Blue","Best Wishes","Heart-Shaped","Nut-Free","None","Luxury Box","49","2"
+"80","Carrot","Strawberry","Jam","25","4","Whipped Cream","Pineapple","Fruit Slices","Yellow","Congratulations","Round","Gluten-Free","None","Luxury Box","35","5"
+"81","Chocolate","Coffee","Jam","8","1","Ganache","Red Velvet","Edible Glitter","Yellow","Happy Anniversary","Heart-Shaped","None","None","Luxury Box with Ribbon","35","5"
+"82","Birthday","Strawberry","Jam","25","3","Buttercream","Red Velvet","Fruit Slices","Gold","Thank You","Heart-Shaped","Nut-Free","Organic","Standard Box with Ribbon","92","1"
+"83","Chocolate","Coffee","Fruit","20","3","Whipped Cream","Lemon","Edible Flowers","Red","Happy Anniversary","Round","None","Organic","Standard Box","75","2"
+"84","Carrot","Vanilla","Fruit","8","1","Whipped Cream","Red Velvet","Edible Glitter","Blue","Happy Birthday","Round","Dairy-Free","None","Luxury Box with Ribbon","97","3"
+"85","Red Velvet","Vanilla","Cream","25","2","Fondant","Pineapple","Fondant Figures","Purple","Just Married","Round","None","None","Luxury Box","88","5"
+"86","Sponge","Vanilla","Cream Cheese","25","4","Buttercream","Pineapple","Sprinkles","Multi-color","Happy Anniversary","Square","Dairy-Free","None","Luxury Box","92","3"
+"87","Sponge","Vanilla","Cream Cheese","15","3","Buttercream","Lemon","Fruit Slices","Silver","Thank You","Rectangle","Gluten-Free","Organic","Luxury Box","41","4"
+"88","Coffee","Vanilla","Custard","25","2","Ganache","Red Velvet","Edible Flowers","Blue","Thank You","Oval","Gluten-Free","None","Standard Box","190","3"
+"89","Carrot","Chocolate","Cream Cheese","25","1","Whipped Cream","Strawberry","Fruit Slices","Gold","Congratulations","Oval","Gluten-Free","None","Standard Box with Ribbon","102","5"
+"90","Birthday","Coffee","Fruit","25","1","Whipped Cream","Red Velvet","Fondant Figures","Silver","Congratulations","Heart-Shaped","Dairy-Free","Organic","Standard Box","80","2"
+"91","Fruit","Lemon","Custard","30","2","Buttercream","Pineapple","Sprinkles","Pink","Best Wishes","Oval","None","None","Standard Box with Ribbon","195","3"
+"92","Sponge","Pineapple","Jam","20","3","Whipped Cream","Red Velvet","Sprinkles","Gold","Thank You","Rectangle","Dairy-Free","None","Standard Box with Ribbon","164","4"
+"93","Red Velvet","Red Velvet","Cream","8","2","Ganache","Red Velvet","Fruit Slices","Purple","Happy Anniversary","Oval","Nut-Free","None","Luxury Box","52","4"
+"94","Marble","Lemon","Ganache","20","3","Ganache","Pineapple","Fruit Slices","Silver","Just Married","Rectangle","None","Organic","Luxury Box","132","1"
+"95","Fruit","Chocolate","Custard","8","3","Fondant","Chocolate","Sprinkles","Pink","Best Wishes","Round","Dairy-Free","None","Luxury Box with Ribbon","116","1"
+"96","Birthday","Lemon","Cream Cheese","25","1","Fondant","Pineapple","Gold Flakes","Silver","Happy Anniversary","Heart-Shaped","None","None","Luxury Box","151","2"
+"97","Chocolate","Caramel","Mousse","30","3","Fondant","Chocolate","Edible Flowers","Purple","Just Married","Rectangle","Gluten-Free","Organic","Standard Box","161","5"
+"98","Red Velvet","Strawberry","Cream","8","3","Ganache","Chocolate","Fruit Slices","Red","Best Wishes","Rectangle","Gluten-Free","Organic","Standard Box with Ribbon","34","5"
+"99","Birthday","Caramel","Cream Cheese","25","4","Whipped Cream","Red Velvet","Edible Glitter","Blue","Happy Anniversary","Square","Gluten-Free","Organic","Standard Box","120","1"
+"100","Chocolate","Chocolate","Jam","25","1","Whipped Cream","Coffee","Fondant Figures","Pink","Happy Anniversary","Square","Nut-Free","None","Standard Box","123","5"
+"101","Chocolate","Coffee","Cream","15","3","Buttercream","Red Velvet","Edible Glitter","Brown","Thank You","Round","Nut-Free","Organic","Luxury Box with Ribbon","64","5"
+"102","Chocolate","Chocolate","Ganache","30","4","Buttercream","Caramel","Gold Flakes","Purple","Thank You","Round","None","None","Standard Box","166","4"
+"103","Marble","Red Velvet","Fruit","20","1","Ganache","Chocolate","Fruit Slices","White","Just Married","Round","Gluten-Free","None","Standard Box","198","3"
+"104","Fruit","Caramel","Ganache","30","4","Fondant","Strawberry","Edible Flowers","Pink","Happy Anniversary","Oval","None","None","Standard Box","200","3"
+"105","Marble","Coffee","Custard","20","3","Fondant","Chocolate","Edible Glitter","Gold","Happy Birthday","Oval","None","None","Luxury Box","104","4"
+"106","Birthday","Strawberry","Custard","8","4","Whipped Cream","Coffee","Edible Glitter","Red","Happy Anniversary","Heart-Shaped","Dairy-Free","Organic","Standard Box with Ribbon","74","2"
+"107","Sponge","Pineapple","Fruit","8","2","Ganache","Coffee","Sprinkles","White","Thank You","Square","None","None","Luxury Box with Ribbon","169","2"
+"108","Fruit","Chocolate","Fruit","30","3","Whipped Cream","Red Velvet","Fruit Slices","Purple","Thank You","Oval","Dairy-Free","None","Standard Box with Ribbon","55","5"
+"109","Birthday","Coffee","Custard","25","4","Ganache","Strawberry","Gold Flakes","Blue","Thank You","Heart-Shaped","None","None","Luxury Box with Ribbon","149","4"
+"110","Fruit","Vanilla","Jam","15","3","Whipped Cream","Coffee","Edible Glitter","Red","Congratulations","Round","Gluten-Free","None","Luxury Box with Ribbon","186","2"
+"111","Birthday","Chocolate","Ganache","25","2","Whipped Cream","Red Velvet","Fruit Slices","Brown","Happy Birthday","Square","Dairy-Free","None","Luxury Box","82","2"
+"112","Carrot","Coffee","Mousse","25","2","Ganache","Chocolate","Fondant Figures","Silver","Thank You","Square","Dairy-Free","Organic","Luxury Box with Ribbon","151","3"
+"113","Chocolate","Vanilla","Cream","30","1","Ganache","Caramel","Edible Flowers","Multi-color","Happy Birthday","Round","Nut-Free","Organic","Luxury Box","178","2"
+"114","Fruit","Coffee","Cream Cheese","8","1","Ganache","Coffee","Sprinkles","Pink","Just Married","Heart-Shaped","Nut-Free","Organic","Standard Box","111","3"
+"115","Sponge","Coffee","Fruit","25","4","Buttercream","Pineapple","Gold Flakes","Red","Best Wishes","Square","None","Organic","Luxury Box","106","4"
+"116","Fruit","Pineapple","Ganache","20","4","Ganache","Red Velvet","Edible Flowers","Yellow","Thank You","Heart-Shaped","None","Organic","Standard Box","131","4"
+"117","Birthday","Coffee","Fruit","8","4","Ganache","Strawberry","Edible Glitter","Yellow","Best Wishes","Heart-Shaped","Nut-Free","None","Luxury Box with Ribbon","162","3"
+"118","Chocolate","Coffee","Mousse","30","2","Whipped Cream","Strawberry","Gold Flakes","Blue","Happy Anniversary","Rectangle","Gluten-Free","None","Luxury Box","183","4"
+"119","Marble","Pineapple","Jam","20","1","Ganache","Caramel","Gold Flakes","Yellow","Just Married","Heart-Shaped","Dairy-Free","Organic","Standard Box","87","4"
+"120","Carrot","Coffee","Cream Cheese","25","3","Ganache","Chocolate","Fondant Figures","Silver","Congratulations","Oval","None","None","Luxury Box with Ribbon","40","3"
+"121","Birthday","Vanilla","Fruit","25","3","Ganache","Vanilla","Fruit Slices","Red","Thank You","Square","None","Organic","Standard Box with Ribbon","181","2"
+"122","Red Velvet","Red Velvet","Custard","20","4","Fondant","Chocolate","Edible Flowers","Pink","Congratulations","Rectangle","None","None","Luxury Box","143","2"
+"123","Coffee","Caramel","Cream Cheese","25","2","Ganache","Vanilla","Gold Flakes","Purple","Happy Anniversary","Square","Nut-Free","None","Luxury Box","64","5"
+"124","Birthday","Red Velvet","Ganache","8","1","Fondant","Vanilla","Gold Flakes","Gold","Congratulations","Rectangle","Nut-Free","Organic","Standard Box","66","3"
+"125","Birthday","Strawberry","Mousse","15","3","Ganache","Vanilla","Edible Flowers","Gold","Thank You","Round","Gluten-Free","None","Luxury Box","53","1"
+"126","Chocolate","Lemon","Custard","15","1","Fondant","Lemon","Edible Flowers","Pink","Congratulations","Oval","Gluten-Free","None","Luxury Box","63","4"
+"127","Red Velvet","Coffee","Ganache","20","1","Buttercream","Coffee","Sprinkles","Silver","Congratulations","Heart-Shaped","Nut-Free","Organic","Standard Box with Ribbon","86","1"
+"128","Red Velvet","Strawberry","Cream Cheese","8","1","Ganache","Pineapple","Fondant Figures","Red","Happy Birthday","Round","Nut-Free","None","Standard Box with Ribbon","179","5"
+"129","Fruit","Coffee","Cream Cheese","25","4","Buttercream","Vanilla","Gold Flakes","Gold","Just Married","Rectangle","None","Organic","Standard Box","112","3"
+"130","Coffee","Vanilla","Jam","20","4","Buttercream","Pineapple","Fruit Slices","Multi-color","Happy Anniversary","Heart-Shaped","Gluten-Free","None","Standard Box","42","5"
+"131","Fruit","Chocolate","Ganache","8","3","Fondant","Lemon","Fruit Slices","White","Thank You","Heart-Shaped","Gluten-Free","Organic","Luxury Box","66","4"
+"132","Carrot","Caramel","Ganache","20","3","Buttercream","Pineapple","Fondant Figures","Purple","Happy Anniversary","Round","Dairy-Free","Organic","Luxury Box with Ribbon","56","4"
+"133","Red Velvet","Red Velvet","Cream Cheese","8","4","Buttercream","Lemon","Edible Glitter","Gold","Happy Birthday","Oval","Gluten-Free","Organic","Luxury Box with Ribbon","49","2"
+"134","Marble","Lemon","Mousse","8","1","Fondant","Red Velvet","Edible Flowers","Brown","Congratulations","Rectangle","Dairy-Free","Organic","Standard Box with Ribbon","102","2"
+"135","Coffee","Strawberry","Mousse","30","3","Whipped Cream","Vanilla","Gold Flakes","Yellow","Just Married","Round","Gluten-Free","None","Standard Box with Ribbon","142","2"
+"136","Red Velvet","Caramel","Ganache","8","3","Whipped Cream","Pineapple","Gold Flakes","Silver","Congratulations","Heart-Shaped","Nut-Free","None","Standard Box","57","4"
+"137","Coffee","Pineapple","Mousse","30","3","Ganache","Lemon","Fruit Slices","Purple","Just Married","Oval","Gluten-Free","None","Standard Box","169","3"
+"138","Marble","Vanilla","Ganache","20","1","Whipped Cream","Pineapple","Edible Glitter","White","Happy Anniversary","Oval","Nut-Free","None","Standard Box","78","4"
+"139","Fruit","Chocolate","Custard","15","3","Ganache","Vanilla","Fruit Slices","Gold","Happy Birthday","Oval","None","None","Standard Box","56","3"
+"140","Fruit","Lemon","Custard","25","2","Fondant","Caramel","Edible Flowers","Brown","Happy Anniversary","Rectangle","Gluten-Free","None","Luxury Box with Ribbon","94","3"
+"141","Chocolate","Coffee","Mousse","25","1","Ganache","Coffee","Fruit Slices","White","Best Wishes","Rectangle","Nut-Free","Organic","Luxury Box with Ribbon","186","3"
+"142","Carrot","Caramel","Cream","25","1","Buttercream","Chocolate","Edible Glitter","Gold","Happy Birthday","Round","Dairy-Free","None","Standard Box with Ribbon","65","1"
+"143","Carrot","Lemon","Fruit","8","3","Buttercream","Red Velvet","Fruit Slices","Purple","Happy Birthday","Heart-Shaped","None","None","Standard Box","35","3"
+"144","Sponge","Pineapple","Cream","30","1","Buttercream","Strawberry","Fruit Slices","Multi-color","Thank You","Rectangle","Dairy-Free","Organic","Standard Box","155","4"
+"145","Carrot","Red Velvet","Jam","15","4","Ganache","Vanilla","Edible Flowers","Multi-color","Happy Anniversary","Round","Gluten-Free","Organic","Luxury Box with Ribbon","129","3"
+"146","Birthday","Pineapple","Jam","15","1","Fondant","Strawberry","Edible Flowers","Brown","Best Wishes","Heart-Shaped","Gluten-Free","Organic","Standard Box","123","1"
+"147","Birthday","Vanilla","Mousse","30","4","Whipped Cream","Coffee","Edible Glitter","Multi-color","Happy Birthday","Oval","Nut-Free","Organic","Luxury Box with Ribbon","149","1"
+"148","Red Velvet","Red Velvet","Jam","25","3","Whipped Cream","Caramel","Edible Glitter","Yellow","Best Wishes","Heart-Shaped","Dairy-Free","None","Luxury Box","109","1"
+"149","Birthday","Strawberry","Mousse","20","4","Fondant","Lemon","Gold Flakes","Purple","Happy Birthday","Heart-Shaped","None","None","Standard Box with Ribbon","99","5"
+"150","Chocolate","Lemon","Mousse","8","1","Ganache","Caramel","Fruit Slices","Gold","Best Wishes","Square","Dairy-Free","Organic","Luxury Box with Ribbon","172","3"
+"151","Fruit","Lemon","Jam","20","4","Fondant","Pineapple","Edible Flowers","Pink","Best Wishes","Rectangle","Gluten-Free","None","Standard Box","58","5"
+"152","Chocolate","Pineapple","Custard","25","1","Ganache","Red Velvet","Edible Flowers","Blue","Best Wishes","Round","Dairy-Free","Organic","Luxury Box with Ribbon","69","5"
+"153","Chocolate","Strawberry","Fruit","30","3","Ganache","Pineapple","Sprinkles","Red","Best Wishes","Oval","None","Organic","Standard Box with Ribbon","123","4"
+"154","Birthday","Lemon","Mousse","25","3","Ganache","Pineapple","Edible Glitter","Brown","Best Wishes","Rectangle","Dairy-Free","Organic","Standard Box","71","3"
+"155","Chocolate","Lemon","Jam","20","3","Fondant","Lemon","Fondant Figures","Red","Thank You","Round","Dairy-Free","Organic","Standard Box","165","2"
+"156","Sponge","Red Velvet","Cream Cheese","20","1","Ganache","Chocolate","Fruit Slices","Pink","Happy Birthday","Square","Nut-Free","None","Luxury Box","162","1"
+"157","Carrot","Red Velvet","Mousse","25","2","Ganache","Caramel","Edible Glitter","Pink","Thank You","Oval","None","Organic","Luxury Box","62","4"
+"158","Red Velvet","Pineapple","Ganache","15","4","Buttercream","Pineapple","Fruit Slices","Blue","Happy Birthday","Oval","Gluten-Free","None","Luxury Box with Ribbon","179","5"
+"159","Fruit","Lemon","Custard","25","3","Whipped Cream","Coffee","Gold Flakes","Blue","Thank You","Heart-Shaped","Nut-Free","None","Luxury Box with Ribbon","30","3"
+"160","Coffee","Red Velvet","Cream","8","3","Fondant","Pineapple","Edible Glitter","Gold","Just Married","Rectangle","Nut-Free","None","Standard Box with Ribbon","195","3"
+"161","Sponge","Red Velvet","Custard","30","3","Fondant","Vanilla","Sprinkles","Purple","Congratulations","Round","None","None","Standard Box","186","4"
+"162","Fruit","Strawberry","Ganache","15","2","Whipped Cream","Strawberry","Fruit Slices","Gold","Just Married","Oval","Gluten-Free","None","Luxury Box","40","1"
+"163","Red Velvet","Lemon","Custard","20","4","Fondant","Coffee","Edible Flowers","Red","Just Married","Oval","None","Organic","Luxury Box","130","1"
+"164","Chocolate","Chocolate","Cream Cheese","20","2","Buttercream","Strawberry","Fruit Slices","Pink","Happy Anniversary","Round","Nut-Free","Organic","Standard Box with Ribbon","143","4"
+"165","Fruit","Caramel","Custard","20","2","Buttercream","Pineapple","Edible Glitter","Purple","Thank You","Round","Nut-Free","None","Standard Box with Ribbon","192","5"
+"166","Coffee","Chocolate","Custard","15","3","Whipped Cream","Red Velvet","Edible Glitter","Pink","Best Wishes","Rectangle","Nut-Free","Organic","Luxury Box with Ribbon","181","5"
+"167","Birthday","Pineapple","Mousse","25","3","Ganache","Pineapple","Fondant Figures","Multi-color","Happy Birthday","Round","Nut-Free","None","Luxury Box with Ribbon","34","3"
+"168","Chocolate","Pineapple","Fruit","15","3","Fondant","Lemon","Fondant Figures","Pink","Congratulations","Oval","Gluten-Free","Organic","Luxury Box with Ribbon","49","1"
+"169","Red Velvet","Strawberry","Ganache","20","1","Ganache","Caramel","Edible Glitter","Yellow","Happy Anniversary","Oval","Dairy-Free","None","Standard Box with Ribbon","193","2"
+"170","Marble","Caramel","Fruit","20","2","Fondant","Red Velvet","Edible Flowers","Multi-color","Best Wishes","Square","Gluten-Free","None","Standard Box with Ribbon","141","1"
+"171","Red Velvet","Strawberry","Jam","8","1","Buttercream","Coffee","Gold Flakes","Multi-color","Thank You","Round","Dairy-Free","Organic","Luxury Box with Ribbon","118","5"
+"172","Marble","Vanilla","Cream Cheese","8","3","Buttercream","Chocolate","Sprinkles","Yellow","Just Married","Heart-Shaped","None","Organic","Luxury Box with Ribbon","108","4"
+"173","Marble","Red Velvet","Mousse","8","4","Whipped Cream","Pineapple","Edible Glitter","Silver","Happy Anniversary","Square","Gluten-Free","Organic","Standard Box with Ribbon","114","2"
+"174","Fruit","Strawberry","Cream Cheese","8","2","Ganache","Pineapple","Edible Glitter","Red","Best Wishes","Oval","Gluten-Free","Organic","Standard Box with Ribbon","164","2"
+"175","Sponge","Vanilla","Ganache","15","3","Ganache","Pineapple","Fondant Figures","Red","Congratulations","Round","Dairy-Free","None","Luxury Box","72","4"
+"176","Chocolate","Red Velvet","Custard","20","2","Fondant","Strawberry","Edible Flowers","Brown","Congratulations","Square","None","Organic","Luxury Box","79","5"
+"177","Red Velvet","Lemon","Custard","30","2","Fondant","Strawberry","Sprinkles","Red","Best Wishes","Square","Gluten-Free","None","Standard Box with Ribbon","129","4"
+"178","Coffee","Caramel","Custard","15","1","Fondant","Pineapple","Edible Flowers","Multi-color","Congratulations","Oval","Nut-Free","Organic","Luxury Box with Ribbon","115","1"
+"179","Marble","Red Velvet","Jam","25","1","Ganache","Chocolate","Fondant Figures","Gold","Best Wishes","Round","Gluten-Free","Organic","Luxury Box","126","2"
+"180","Coffee","Red Velvet","Ganache","15","1","Ganache","Red Velvet","Gold Flakes","Yellow","Thank You","Heart-Shaped","Nut-Free","None","Luxury Box","39","2"
+"181","Red Velvet","Coffee","Mousse","20","3","Ganache","Vanilla","Gold Flakes","Red","Happy Anniversary","Heart-Shaped","Gluten-Free","Organic","Standard Box with Ribbon","76","5"
+"182","Chocolate","Pineapple","Mousse","25","1","Whipped Cream","Vanilla","Fruit Slices","Blue","Thank You","Round","Gluten-Free","None","Standard Box with Ribbon","123","3"
+"183","Chocolate","Lemon","Jam","30","3","Buttercream","Vanilla","Edible Flowers","Multi-color","Congratulations","Heart-Shaped","None","Organic","Luxury Box with Ribbon","36","1"
+"184","Coffee","Vanilla","Mousse","30","2","Fondant","Lemon","Fondant Figures","Multi-color","Happy Anniversary","Heart-Shaped","Dairy-Free","None","Standard Box with Ribbon","110","4"
+"185","Red Velvet","Lemon","Fruit","20","4","Fondant","Red Velvet","Fondant Figures","Yellow","Congratulations","Round","Gluten-Free","None","Standard Box with Ribbon","143","4"
+"186","Carrot","Lemon","Cream","30","3","Whipped Cream","Strawberry","Fondant Figures","Multi-color","Happy Anniversary","Round","Dairy-Free","Organic","Luxury Box","174","1"
+"187","Marble","Pineapple","Custard","20","1","Buttercream","Lemon","Fondant Figures","Multi-color","Happy Anniversary","Heart-Shaped","Dairy-Free","Organic","Standard Box","129","4"
+"188","Sponge","Strawberry","Ganache","25","3","Fondant","Lemon","Gold Flakes","Yellow","Happy Anniversary","Oval","Nut-Free","Organic","Standard Box with Ribbon","112","4"
+"189","Sponge","Lemon","Cream","15","4","Fondant","Red Velvet","Fruit Slices","Yellow","Congratulations","Heart-Shaped","Gluten-Free","None","Standard Box","42","5"
+"190","Red Velvet","Lemon","Fruit","25","4","Buttercream","Caramel","Fruit Slices","Pink","Happy Birthday","Heart-Shaped","Dairy-Free","None","Standard Box with Ribbon","167","1"
+"191","Coffee","Red Velvet","Fruit","25","3","Buttercream","Lemon","Fruit Slices","Brown","Best Wishes","Rectangle","Dairy-Free","Organic","Standard Box","95","1"
+"192","Red Velvet","Pineapple","Cream","20","4","Ganache","Lemon","Fondant Figures","Multi-color","Best Wishes","Round","Dairy-Free","Organic","Luxury Box with Ribbon","144","3"
+"193","Birthday","Caramel","Jam","25","2","Buttercream","Vanilla","Edible Flowers","Yellow","Happy Anniversary","Round","Nut-Free","None","Standard Box","50","5"
+"194","Marble","Lemon","Fruit","30","1","Fondant","Red Velvet","Fruit Slices","Blue","Happy Birthday","Oval","Gluten-Free","Organic","Standard Box with Ribbon","199","2"
+"195","Fruit","Red Velvet","Cream Cheese","20","1","Whipped Cream","Chocolate","Sprinkles","Silver","Best Wishes","Oval","Dairy-Free","Organic","Standard Box","144","1"
+"196","Carrot","Pineapple","Cream","8","2","Whipped Cream","Red Velvet","Edible Glitter","Yellow","Congratulations","Heart-Shaped","Gluten-Free","None","Luxury Box","140","5"
+"197","Coffee","Vanilla","Ganache","15","2","Ganache","Caramel","Gold Flakes","Brown","Just Married","Round","Dairy-Free","Organic","Standard Box with Ribbon","188","5"
+"198","Chocolate","Pineapple","Cream","8","3","Whipped Cream","Lemon","Sprinkles","Pink","Congratulations","Oval","Dairy-Free","Organic","Luxury Box with Ribbon","98","5"
+"199","Sponge","Red Velvet","Cream Cheese","8","1","Whipped Cream","Pineapple","Fondant Figures","Pink","Happy Birthday","Round","None","None","Standard Box","186","2"
+"200","Red Velvet","Coffee","Fruit","8","2","Buttercream","Caramel","Fondant Figures","Blue","Congratulations","Rectangle","None","Organic","Standard Box with Ribbon","84","4"
+"201","Red Velvet","Chocolate","Jam","30","1","Ganache","Chocolate","Fondant Figures","Pink","Congratulations","Round","Dairy-Free","Organic","Standard Box with Ribbon","146","4"
+"202","Sponge","Lemon","Cream Cheese","15","3","Buttercream","Pineapple","Edible Flowers","Multi-color","Congratulations","Oval","Gluten-Free","None","Luxury Box with Ribbon","121","2"
+"203","Red Velvet","Lemon","Cream","8","2","Whipped Cream","Caramel","Edible Flowers","Blue","Happy Birthday","Round","None","None","Standard Box with Ribbon","175","1"
+"204","Fruit","Caramel","Ganache","15","1","Whipped Cream","Coffee","Fondant Figures","Brown","Happy Birthday","Round","Gluten-Free","None","Standard Box","168","4"
+"205","Chocolate","Vanilla","Custard","20","4","Ganache","Chocolate","Fruit Slices","Multi-color","Happy Birthday","Rectangle","Nut-Free","Organic","Standard Box","196","3"
+"206","Coffee","Caramel","Ganache","30","1","Fondant","Chocolate","Fruit Slices","Yellow","Thank You","Round","Dairy-Free","None","Luxury Box with Ribbon","45","2"
+"207","Carrot","Lemon","Fruit","25","2","Buttercream","Strawberry","Fruit Slices","White","Congratulations","Rectangle","None","Organic","Standard Box with Ribbon","47","1"
+"208","Chocolate","Red Velvet","Fruit","25","2","Buttercream","Caramel","Edible Flowers","Purple","Thank You","Square","Nut-Free","None","Luxury Box","186","3"
+"209","Red Velvet","Red Velvet","Mousse","8","2","Buttercream","Caramel","Fruit Slices","Multi-color","Best Wishes","Round","None","None","Standard Box with Ribbon","40","4"
+"210","Birthday","Vanilla","Custard","15","2","Ganache","Lemon","Fondant Figures","White","Best Wishes","Square","Nut-Free","Organic","Luxury Box with Ribbon","77","4"
+"211","Marble","Vanilla","Mousse","30","2","Whipped Cream","Pineapple","Edible Glitter","White","Best Wishes","Oval","Dairy-Free","Organic","Luxury Box with Ribbon","86","3"
+"212","Chocolate","Lemon","Cream Cheese","30","4","Fondant","Coffee","Edible Flowers","Purple","Happy Anniversary","Rectangle","Dairy-Free","None","Luxury Box with Ribbon","192","3"
+"213","Red Velvet","Strawberry","Mousse","20","2","Ganache","Strawberry","Fruit Slices","Gold","Just Married","Rectangle","Nut-Free","Organic","Luxury Box with Ribbon","138","5"
+"214","Birthday","Chocolate","Ganache","25","1","Fondant","Chocolate","Fondant Figures","Brown","Happy Birthday","Square","Gluten-Free","None","Luxury Box with Ribbon","103","2"
+"215","Fruit","Chocolate","Cream","15","3","Whipped Cream","Chocolate","Edible Glitter","Red","Just Married","Heart-Shaped","None","None","Luxury Box with Ribbon","180","4"
+"216","Sponge","Coffee","Fruit","15","2","Buttercream","Red Velvet","Edible Flowers","White","Happy Birthday","Square","None","None","Standard Box","92","5"
+"217","Red Velvet","Strawberry","Cream Cheese","20","2","Fondant","Vanilla","Edible Glitter","Red","Happy Anniversary","Rectangle","Gluten-Free","Organic","Luxury Box","32","2"
+"218","Sponge","Lemon","Ganache","30","2","Fondant","Red Velvet","Fruit Slices","Pink","Best Wishes","Heart-Shaped","None","Organic","Standard Box","104","1"
+"219","Sponge","Coffee","Custard","15","3","Ganache","Vanilla","Sprinkles","Yellow","Happy Anniversary","Oval","Dairy-Free","None","Luxury Box","170","3"
+"220","Coffee","Pineapple","Custard","8","1","Whipped Cream","Chocolate","Edible Flowers","Purple","Congratulations","Round","None","None","Luxury Box","70","5"
+"221","Chocolate","Coffee","Jam","15","2","Ganache","Red Velvet","Sprinkles","Pink","Thank You","Round","Dairy-Free","Organic","Standard Box","183","5"
+"222","Marble","Red Velvet","Fruit","30","3","Ganache","Caramel","Fruit Slices","White","Happy Birthday","Square","Gluten-Free","None","Standard Box with Ribbon","188","3"
+"223","Chocolate","Red Velvet","Custard","25","2","Fondant","Chocolate","Edible Flowers","Blue","Thank You","Round","Gluten-Free","Organic","Luxury Box","64","5"
+"224","Birthday","Strawberry","Cream Cheese","8","3","Fondant","Strawberry","Edible Flowers","Yellow","Just Married","Square","None","None","Luxury Box with Ribbon","169","3"
+"225","Coffee","Caramel","Ganache","30","3","Fondant","Pineapple","Fruit Slices","White","Just Married","Oval","Dairy-Free","None","Standard Box","107","1"
+"226","Marble","Vanilla","Mousse","30","4","Buttercream","Red Velvet","Edible Glitter","Blue","Happy Birthday","Round","Nut-Free","None","Standard Box with Ribbon","83","1"
+"227","Chocolate","Red Velvet","Cream Cheese","25","4","Fondant","Strawberry","Gold Flakes","Blue","Just Married","Oval","Dairy-Free","Organic","Standard Box with Ribbon","44","1"
+"228","Fruit","Pineapple","Mousse","20","4","Fondant","Vanilla","Fruit Slices","Gold","Best Wishes","Square","Dairy-Free","None","Luxury Box","176","1"
+"229","Birthday","Caramel","Cream Cheese","8","3","Ganache","Caramel","Fruit Slices","Multi-color","Happy Anniversary","Rectangle","Gluten-Free","None","Luxury Box with Ribbon","118","2"
+"230","Carrot","Chocolate","Ganache","20","1","Fondant","Lemon","Fondant Figures","Blue","Just Married","Round","Gluten-Free","Organic","Luxury Box","129","1"
+"231","Sponge","Vanilla","Cream Cheese","15","2","Ganache","Coffee","Fondant Figures","Yellow","Thank You","Square","Dairy-Free","None","Standard Box with Ribbon","128","1"
+"232","Chocolate","Strawberry","Jam","30","3","Fondant","Pineapple","Gold Flakes","Silver","Just Married","Square","Dairy-Free","None","Luxury Box with Ribbon","37","4"
+"233","Coffee","Vanilla","Cream Cheese","25","4","Fondant","Vanilla","Gold Flakes","Pink","Congratulations","Oval","Dairy-Free","Organic","Luxury Box","50","4"
+"234","Sponge","Chocolate","Custard","8","4","Ganache","Chocolate","Fondant Figures","Multi-color","Just Married","Oval","None","None","Standard Box","88","3"
+"235","Fruit","Strawberry","Ganache","15","2","Fondant","Caramel","Edible Flowers","White","Thank You","Round","Gluten-Free","None","Luxury Box","114","2"
+"236","Sponge","Coffee","Mousse","20","4","Whipped Cream","Caramel","Edible Glitter","Blue","Congratulations","Oval","Gluten-Free","Organic","Standard Box","200","1"
+"237","Sponge","Chocolate","Ganache","20","3","Ganache","Chocolate","Gold Flakes","Brown","Congratulations","Heart-Shaped","None","Organic","Standard Box","67","3"
+"238","Carrot","Strawberry","Cream Cheese","20","4","Buttercream","Strawberry","Fondant Figures","Brown","Best Wishes","Rectangle","Nut-Free","Organic","Luxury Box with Ribbon","59","1"
+"239","Sponge","Red Velvet","Cream Cheese","25","3","Ganache","Coffee","Fruit Slices","Silver","Happy Anniversary","Rectangle","Nut-Free","Organic","Standard Box with Ribbon","186","5"
+"240","Fruit","Pineapple","Cream","25","3","Ganache","Strawberry","Fondant Figures","Gold","Thank You","Heart-Shaped","Gluten-Free","None","Luxury Box with Ribbon","156","5"
+"241","Fruit","Red Velvet","Cream","30","3","Fondant","Pineapple","Gold Flakes","Pink","Happy Anniversary","Heart-Shaped","Nut-Free","None","Standard Box","146","2"
+"242","Coffee","Vanilla","Mousse","15","4","Buttercream","Lemon","Fruit Slices","White","Thank You","Oval","None","Organic","Luxury Box","76","1"
+"243","Sponge","Pineapple","Ganache","20","3","Ganache","Lemon","Sprinkles","Blue","Happy Birthday","Heart-Shaped","None","None","Standard Box","138","1"
+"244","Birthday","Lemon","Cream Cheese","8","4","Whipped Cream","Strawberry","Fruit Slices","Multi-color","Just Married","Rectangle","Nut-Free","Organic","Luxury Box","34","2"
+"245","Chocolate","Lemon","Cream Cheese","25","4","Whipped Cream","Pineapple","Gold Flakes","Red","Happy Birthday","Oval","None","None","Luxury Box","119","2"
+"246","Coffee","Coffee","Cream Cheese","25","2","Whipped Cream","Coffee","Edible Glitter","Red","Congratulations","Rectangle","Dairy-Free","None","Luxury Box with Ribbon","164","4"
+"247","Red Velvet","Lemon","Custard","30","1","Fondant","Chocolate","Gold Flakes","Blue","Congratulations","Square","None","Organic","Luxury Box","111","2"
+"248","Carrot","Strawberry","Mousse","8","1","Whipped Cream","Coffee","Edible Glitter","White","Congratulations","Round","Gluten-Free","None","Luxury Box","144","3"
+"249","Coffee","Chocolate","Fruit","25","3","Buttercream","Caramel","Fondant Figures","Red","Congratulations","Rectangle","None","Organic","Standard Box with Ribbon","199","5"
+"250","Birthday","Pineapple","Fruit","15","4","Ganache","Strawberry","Fruit Slices","Multi-color","Best Wishes","Oval","Dairy-Free","None","Standard Box","73","4"
+"251","Red Velvet","Strawberry","Fruit","15","3","Buttercream","Lemon","Edible Glitter","Silver","Happy Birthday","Rectangle","None","None","Luxury Box with Ribbon","35","4"
+"252","Birthday","Lemon","Cream","8","1","Fondant","Pineapple","Fondant Figures","Pink","Happy Birthday","Heart-Shaped","Dairy-Free","None","Standard Box with Ribbon","170","1"
+"253","Carrot","Caramel","Fruit","20","4","Whipped Cream","Pineapple","Sprinkles","Yellow","Happy Birthday","Rectangle","None","Organic","Standard Box with Ribbon","92","2"
+"254","Carrot","Pineapple","Cream Cheese","20","4","Ganache","Pineapple","Sprinkles","Blue","Happy Anniversary","Round","Gluten-Free","None","Luxury Box with Ribbon","32","1"
+"255","Coffee","Lemon","Cream","25","1","Whipped Cream","Strawberry","Edible Glitter","White","Congratulations","Rectangle","None","Organic","Standard Box","73","3"
+"256","Red Velvet","Chocolate","Jam","25","1","Whipped Cream","Vanilla","Fruit Slices","Yellow","Best Wishes","Oval","Dairy-Free","Organic","Standard Box with Ribbon","70","1"
+"257","Marble","Chocolate","Jam","25","4","Buttercream","Coffee","Fruit Slices","Pink","Just Married","Heart-Shaped","Dairy-Free","None","Luxury Box","63","3"
+"258","Red Velvet","Red Velvet","Cream Cheese","20","1","Ganache","Red Velvet","Edible Flowers","Multi-color","Happy Anniversary","Square","Gluten-Free","Organic","Standard Box with Ribbon","57","1"
+"259","Sponge","Caramel","Mousse","30","4","Ganache","Red Velvet","Gold Flakes","Pink","Happy Anniversary","Square","None","Organic","Standard Box","146","1"
+"260","Fruit","Pineapple","Custard","30","4","Whipped Cream","Chocolate","Sprinkles","White","Thank You","Square","None","Organic","Standard Box with Ribbon","151","2"
+"261","Fruit","Red Velvet","Custard","25","2","Ganache","Pineapple","Gold Flakes","Gold","Happy Anniversary","Rectangle","Gluten-Free","None","Standard Box","154","4"
+"262","Chocolate","Vanilla","Custard","25","3","Whipped Cream","Strawberry","Gold Flakes","White","Congratulations","Square","Dairy-Free","Organic","Standard Box","97","3"
