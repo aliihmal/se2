@@ -6,14 +6,21 @@ import { AuthReq } from "../config/type.D";
 
 const authService = new AuthenticationService();
 
-export function authenticate (req:AuthReq,res:Response,next:NextFunction){
-    const token = req.headers['authorization']?.split(' ')[1];
-
+export function authenticate (req:Request,res:Response,next:NextFunction){
+    let token =req.cookies.token;
+    const refreshToken= req.cookies.refreshToken;
 
     if(!token){
-        throw new AuthenticationFailed();
+        if(!refreshToken){
+            throw new AuthenticationFailed();
+        }
+            const newToken=authService.refreshToken(refreshToken);
+            authService.setTokenIntoCookie(res,newToken);
+        
+       
+            token=newToken;
     }
     const payload = authService.verirfyToken(token);
-    req.UserId = payload.userId;
+    (req as AuthReq).UserId = payload.userId;
     next(); 
 }

@@ -3,6 +3,7 @@ import { BadRequestException } from "../util/exeptions/http/BadRequestException"
 import { AuthenticationService } from "../service/Authentication.service";
 import { UserRepository } from "../repository/sqlite/user.repository";
 import { UserManager } from "../service/UserManagement.servic";
+import { AuthReq } from "../config/type.D";
 
 export class AuthController{
 
@@ -18,13 +19,21 @@ export class AuthController{
             })
         }
         const userId = await this.userservice.validateUser(email,password);
+        this.autheService.persistAuthentication(res,userId);
 
+
+        
         res.status(200).json({
             message:'login successfuly',
-            token:this.autheService.generateToken(userId)
+            
         })
     }
     signUp(){
 
+    }
+    logout(req:Request,res:Response){
+        const authRequest = req as AuthReq;
+        this.autheService.clearTokens(res);
+        res.status(200).json({message:"Logout successfully "})
     }
 }

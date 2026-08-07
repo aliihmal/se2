@@ -3145,3 +3145,57 @@
 {"level":"info","message":"user table initialized","timestamp":"2026-06-08T09:33:08.179Z"}
 {"level":"info","message":"POST 200 /Auth/login 11","timestamp":"2026-06-08T09:33:08.187Z"}
 {"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-06-10T11:26:34.730Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:27:07.301Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:29:32.969Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:29:51.743Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:29:53.651Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:29:58.591Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:30:19.534Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:30:49.448Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:30:59.435Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:31:27.239Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:33:53.460Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:36:56.906Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:38:36.493Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:38:44.583Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:38:48.197Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:38:57.590Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:40:39.501Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:41:10.877Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:41:17.327Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:42:19.356Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:42:30.980Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:42:50.396Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:43:49.706Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:44:18.819Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:44:20.594Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:44:26.298Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:44:30.824Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:44:34.326Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:44:38.002Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:45:04.794Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:45:07.249Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:45:53.743Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:46:25.057Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:46:26.326Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:46:43.801Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:46:50.831Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:46:53.213Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:46:57.508Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:48:13.364Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:48:19.678Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:56:22.654Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T08:56:48.292Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T09:02:28.884Z"}
+{"level":"warn","message":"POST 404 /atuh/login 5","timestamp":"2026-08-03T09:05:03.911Z"}
+{"level":"info","message":"user table initialized","timestamp":"2026-08-03T09:05:12.261Z"}
+{"level":"info","message":"POST 200 /auth/login 73","timestamp":"2026-08-03T09:05:12.281Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T09:09:31.845Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T09:09:33.183Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T09:09:34.971Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T09:17:47.773Z"}
+{"level":"warn","message":"POST 404 /auth/logout 3","timestamp":"2026-08-03T09:17:57.114Z"}
+{"level":"info","message":"GET 200 /auth/logout 6","timestamp":"2026-08-03T09:21:16.865Z"}
+{"level":"info","message":"the app is running on http://%s:%d","timestamp":"2026-08-03T11:16:21.172Z"}
+{"level":"info","message":"user table initialized","timestamp":"2026-08-03T11:16:59.529Z"}
+{"level":"info","message":"POST 200 /auth/login 15","timestamp":"2026-08-03T11:16:59.541Z"}

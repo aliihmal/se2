@@ -9,6 +9,7 @@ import { ItemNotFoundException } from './util/exeptions/repositoryException';
 import routes from './routes';
 import { httpExecption } from './util/exeptions/http/httpExecption';
 import { UserRepository } from './repository/sqlite/user.repository';
+import cookieParser from 'cookie-parser';
 const app = express();
 //config helmet
 app.use(helmet())
@@ -20,6 +21,8 @@ app.use(bodyParser.urlencoded({extended:true}));
 //config cors
 app.use(cors());    
 app.use(requestLogger)
+//cookie parser
+app.use(cookieParser())
 app.use('/',routes);
 
 app.use((req,res)=>{

@@ -16,7 +16,7 @@ const CREATE_TABLE = `CREATE TABLE IF NOT EXISTS "user" (
 )`;
 
 
-const CREATE_USER = `INSERT INTO "user" (name,email,password,id)  VALUES (?,?,?,?) `
+const CREATE_USER = `INSERT INTO "user" (name,email,password,id,role)  VALUES (?,?,?,?,?) `
 const GET_ALL = `SELECT * FROM "user"`;
 const GET_ID = `SELECT * FROM "user" WHERE id = ?`;
 const UPDATE_ID = `UPDATE "user" SET
@@ -31,6 +31,7 @@ export class UserRepository implements initializabelIRepository<User>{
        try{
         const conn = await ConnectionManager.getConnection();
         await conn.exec(CREATE_TABLE);
+        await conn.exec(`ALTER TABLE "user" ADD COLUMN IF NOT EXISTS role TEXT DEFAULT 'user'`)
         logger.info("user table initialized");
        }catch(e ){
           logger.error("Failed to initialized the user Table",e as Error);

@@ -6,6 +6,7 @@ import { UserManager } from "../service/UserManagement.servic";
 import asyncHandler from "../middleware/asyncHandeler";
 import { AuthenticationService } from "../service/Authentication.service";
 import { AuthController } from "../controller/auth.controller";
+import { authenticate } from "../middleware/auth";
 
 
 
@@ -22,4 +23,5 @@ const authControler = new AuthController(autheService,userservice);
 route.route("/login")
             .post(asyncHandler(authControler.login.bind(authControler)));
 route.route("/logout")
+            .get(authenticate,authControler.logout.bind(authControler))
 export default route;
