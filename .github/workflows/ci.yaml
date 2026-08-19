@@ -11,3 +11,5 @@ jobs:
     steps:
       - name: Grab the code
         uses: actions/checkout@v5
+      - name: List the files 
+        run:
