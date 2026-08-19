@@ -1,0 +1,20 @@
+name: Dummy Workflow
+
+on:
+  push:
+    branches:
+      - **
+
+jobs:
+  welcome:
+    runs-on: windows-latest
+    steps:
+      - name: Welcome message
+        run: echo "Welcome to GitHub Actions!"
+      - name: List files
+        run: dir
+  good-bye:
+    runs-on: windows-latest
+    steps:
+      - name: Goodbye message
+        run: echo "Goodbye from GitHub Actions!"
