@@ -4,21 +4,17 @@ on:
   push:
     branches:
       - '*'
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Grab the code
-        uses: actions/checkout@v5
-      - name: List the files 
-        run: dir 
-      - name : Setup Node  js
-        uses : actions/setup-node@v4
+        uses: actions/checkout@v4
+      - name: Setup Node js
+        uses: actions/setup-node@v4
         with:
-            node-version: '24'
-      - name : Install dependency
+          node-version: '18'
+      - name: Install dependencies
         run: npm install
-      
-      - name: transpiile the code
-        run : npm run build
+      - name: Transpile the code
+        run: npm run build
