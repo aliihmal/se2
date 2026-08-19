@@ -3,19 +3,11 @@ name: Dummy Workflow
 on:
   push:
     branches:
-      - '**'
+      - '*'
 
 jobs:
-  welcome:
-    runs-on: windows-latest
+  build:
+    runs-on: ubuntu-latest
     steps:
-      - name: Welcome message
-        run: echo "Welcome to GitHub Actions!"
-      - name: List files
-        run: dir
-  good_bye:
-    runs-on: windows-latest
-    needs: welcome
-    steps:
-      - name: Goodbye message
-        run: echo "Goodbye from GitHub Actions!"
+      - name: Grab the code
+        uses: actions/checkout@v4
