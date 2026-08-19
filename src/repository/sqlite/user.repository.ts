@@ -20,7 +20,11 @@ const CREATE_USER = `INSERT INTO "user" (name,email,password,id,role)  VALUES (?
 const GET_ALL = `SELECT * FROM "user"`;
 const GET_ID = `SELECT * FROM "user" WHERE id = ?`;
 const UPDATE_ID = `UPDATE "user" SET
-                  name= ? ,email = ? ,password= ?  WHERE id = ?`;
+                  name = ?,
+                  email = ?,
+                  password = ?,
+                  role = ?
+                  WHERE id = ?`;
 const DELETE_ID = `DELETE FROM "user" WHERE id = ?`;
 
 
@@ -41,7 +45,7 @@ export class UserRepository implements initializabelIRepository<User>{
     async create(item: User): Promise<id> {
         try{
             const conn = await ConnectionManager.getConnection();
-            await conn.run(CREATE_USER,[item.name,item.email,item.password,item.id]);
+            await conn.run(CREATE_USER,[item.name,item.email,item.password,item.id,item.role]);
             logger.info("The user of id " + item.id + "is inserted into the user table");
             return item.id;
         }catch(error){
@@ -86,7 +90,8 @@ export class UserRepository implements initializabelIRepository<User>{
                item.name,
                item.email,
                item.password,
-               item.id
+               item.role,
+               item.id               
             ]); 
             logger.info("user updated sucsefuly " );
         }catch(error){

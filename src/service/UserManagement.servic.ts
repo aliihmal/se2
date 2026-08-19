@@ -43,7 +43,7 @@ export class UserManager {
             return users.length;
             
         }
-        public async validateUser(email:string,password:string):Promise<id>{
+        public async validateUser(email:string,password:string):Promise<User>{
             const user = await (await this.getRepo()).FindUserByEmail(email);
             if(!user){
                 throw new NotFoundException("User of email " + email + " not found " );
@@ -51,6 +51,6 @@ export class UserManager {
             if(user.password !=password){
                 throw new NotFoundException('Invalid password');
             }
-            return user.getId();
+            return user;
         }
 }

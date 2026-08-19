@@ -7,14 +7,16 @@ const orderController = new OrderController(new OrderManagement());
 const route = Router();
 
 import asyncHandler from "../middleware/asyncHandeler";
+import { hasPermission } from "../middleware/authorize";
+import { Permission } from "../config/role";
 
 route.route('/')
         .get(asyncHandler(orderController.getAllorder.bind(orderController)))
         .post(asyncHandler(orderController.createOrder.bind(orderController)));
         
 route.route('/:id')     
-                .get(asyncHandler(orderController.getOrder.bind(orderController)))
-                .put(asyncHandler(orderController.updateOrder.bind(orderController)))
-                .delete(asyncHandler(orderController.deleteOrder.bind(orderController)));
+                .get(hasPermission(Permission.READ_ORDER),asyncHandler(orderController.getOrder.bind(orderController)))
+                .put(hasPermission(Permission.UPDATE_ORDER),asyncHandler(orderController.updateOrder.bind(orderController)))
+                .delete(hasPermission(Permission.DELETE_ORDER),asyncHandler(orderController.deleteOrder.bind(orderController)));
 // and we are 
 export default route;

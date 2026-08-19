@@ -21,6 +21,6 @@ export function authenticate (req:Request,res:Response,next:NextFunction){
             token=newToken;
     }
     const payload = authService.verirfyToken(token);
-    (req as AuthReq).UserId = payload.userId;
+    (req as AuthReq).user = payload;
     next(); 
 }

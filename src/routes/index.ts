@@ -11,4 +11,4 @@ routes.get("/", (req, res) => {
 routes.use("/orders", OrderRoutes);
 routes.use("/user", UserRoutes);
 routes.use("/Auth",Auth)
-export default routes; 
+export default routes;  

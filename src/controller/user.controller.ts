@@ -10,6 +10,8 @@ export class userController{
      constructor(private readonly userService:UserManager){
     
         }
+
+
     public async CreateUser(req:Request,res:Response):Promise<void>{
         const {name,email,password} = req.body;
         if(!name || !email|| !password){
@@ -25,9 +27,12 @@ export class userController{
         res.status(400).json({ message: 'Invalid email format' });
         return;
         }
-        await this.userService.createUser(UserBuilder.newBuilder().setEmail(email).setId(generateUUID("user")).setName(name).setPassword(password).build());
+        await this.userService.createUser(UserBuilder.newBuilder().setEmail(email).setId(generateUUID("user"))
+        .setName(name).setPassword(password).setRoel('user').build());
         res.status(201).json({message:"user created sucsefuly"})
     }
+
+
     public async getUser(req:Request,res:Response):Promise<void>{
         const id= req.params.id as string;
         if (!id){
@@ -39,10 +44,15 @@ export class userController{
         res.status(201).json({"user":user});
 
     }
+
+
+
     public async getAllUser(req:Request,res:Response){
         const users = await this.userService.getAllUsers();
         res.status(201).json({"users":users});
     }
+
+
     public async updateUser(req:Request,res:Response){
         const id = req.params.id as string;
          if (!id){
@@ -50,6 +60,8 @@ export class userController{
                 "id":!id
             })
         }
+        
+         const existingUser = await this.userService.getUser(id);
          const { name, email, password } = req.body;
 
          if(!name || !email|| !password){
@@ -64,6 +76,7 @@ export class userController{
              .setName(name)
             .setEmail(email)
             .setPassword(password)
+            .setRoel(existingUser.role)
             .build();
 
         await this.userService.updateUser(user);

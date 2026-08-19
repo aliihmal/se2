@@ -8,13 +8,14 @@ export interface SQLITEUser {
     name:string;
     email:string;
     password:string;
+    role:string;
 }
 
 export class SQLITEUserMapper implements IMapper<SQLITEUser,User>{
     map(data: SQLITEUser): User {
        try{
           const userbuilder = UserBuilder.newBuilder();
-          const user  =userbuilder.setName(data.name).setId(data.id).setPassword(data.password).setEmail(data.email).build();
+          const user  =userbuilder.setName(data.name).setId(data.id).setPassword(data.password).setEmail(data.email).setRoel(data.role).build();
           return user;
        }catch(error){
         logger.error("Cannot build user ");

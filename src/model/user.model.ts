@@ -1,3 +1,4 @@
+import { ROLE } from "../config/role";
 import { ID } from "../repository/IRepository";
 
 export class User implements ID{
@@ -6,8 +7,8 @@ export class User implements ID{
     email:string;
     password:string;
     id:string;
-    role:string;
-    constructor(name:string,email:string,password:string,id:string,role:string = "user"){
+    role: ROLE;
+    constructor(name:string,email:string,password:string,id:string,role:ROLE = ROLE.user){
         this.role=role;
         this.name=name;
         this.email=email;
