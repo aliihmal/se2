@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint src",
-    "clean": "rmdir /s /q build",
+    "clean": "rm -rf build",
     "prebuild": "npm run clean",
     "build": "tsc",
     "postbuild": "powershell -Command \"$size=(Get-ChildItem .\\build -Recurse | Measure-Object -Property Length -Sum).Sum; $hr='{0:N2} MB' -f ($size/1MB); Write-Output ('finished build with size ' + $hr)\"",
