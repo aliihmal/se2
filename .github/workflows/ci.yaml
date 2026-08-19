@@ -3,7 +3,7 @@ name: Dummy Workflow
 on:
   push:
     branches:
-      - **
+      - '**'
 
 jobs:
   welcome:
@@ -13,7 +13,7 @@ jobs:
         run: echo "Welcome to GitHub Actions!"
       - name: List files
         run: dir
-  good-bye:
+  good_bye:
     runs-on: windows-latest
     steps:
       - name: Goodbye message
