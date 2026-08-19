@@ -13,3 +13,12 @@ jobs:
         uses: actions/checkout@v5
       - name: List the files 
         run: dir 
+      - name : Setup Node  js
+        uses : actions/setup-node@v4
+        with:
+            node-version:'24'
+      - name : Install dependency
+        run: npm install
+      
+      - name: transpiile the code
+        run : npm run build
