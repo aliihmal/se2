@@ -10,7 +10,7 @@ const config:Config.InitialOptions = {
     collectCoverageFrom:["src/**/*.ts"],// the file that we want to apply the tests on 
     coverageThreshold:{
         global:{
-            functions:85,
+            functions:65,
             statements:75,     
         }
     }

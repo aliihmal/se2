@@ -8,7 +8,7 @@
     "clean": "rm -rf build",
     "prebuild": "npm run clean",
     "build": "tsc",
-    "postbuild": "powershell -Command \"$size=(Get-ChildItem .\\build -Recurse | Measure-Object -Property Length -Sum).Sum; $hr='{0:N2} MB' -f ($size/1MB); Write-Output ('finished build with size ' + $hr)\"",
+    "postbuild": "node -e \"const fs=require('fs'); const path=require('path'); let size=0; function walk(dir){for(const f of fs.readdirSync(dir,{withFileTypes:true})){const p=path.join(dir,f.name); if(f.isDirectory()) walk(p); else size+=fs.statSync(p).size;}} walk('build'); console.log('finished build with size ' + (size/1024/1024).toFixed(2) + ' MB');\"",
     "prestart": "npm run build",
     "start": "node build/index.js",
     "dev": "ts-node-dev --respawn src/index.ts",
