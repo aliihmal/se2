@@ -5,6 +5,7 @@ export interface Iitem{
 }
 export enum itemCategory{
     CAKE="cake",
+    BOOK="book"
 }
 
 export interface IidentifiableItem extends Iitem, ID { 
